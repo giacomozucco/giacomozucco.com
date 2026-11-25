@@ -1,0 +1,7 @@
+[build]
+  command = "npm install --no-audit --no-fund && npm run build"
+  publish = ".vuepress/dist"
+
+[build.environment]
+  # VuePress 1 / webpack 4 needs Node 16 (newer Node breaks the OpenSSL hashing it uses)
+  NODE_VERSION = "16"

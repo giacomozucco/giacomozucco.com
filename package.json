@@ -1,0 +1,39 @@
+{
+  "name": "blog",
+  "author": "Giacomo Zucco",
+  "description": "Personal website and blog",
+  "version": "0.1.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giacomozucco/blog.git"
+  },
+  "keywords": [
+    "laravel",
+    "vuejs",
+    "vuepress",
+    "php",
+    "blog"
+  ],
+  "scripts": {
+    "watch": "npm run dev",
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "devDependencies": {
+    "@vue/babel-preset-app": "^4.4.6",
+    "@vuepress/plugin-blog": "^1.9.2",
+    "@vuepress/plugin-google-analytics": "^1.5.2",
+    "autoprefixer": "^9.8.5",
+    "moment": "^2.27.0",
+    "svg-inline-loader": "^0.8.2",
+    "tailwindcss": "^1.4.6",
+    "tailwindcss-plugins": "^0.3.0",
+    "vuepress": "^1.5.2",
+    "vuepress-plugin-disqus": "^0.2.0",
+    "vuepress-plugin-seo": "^0.1.4"
+  },
+  "dependencies": {
+    "qrcode.vue": "^1.7.0"
+  }
+}

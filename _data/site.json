@@ -1,13 +1,14 @@
 {
   "name": "Giacomo Zucco",
   "tagline": "Bitcoin educator, entrepreneur and investor",
-  "description": "Giacomo Zucco: Bitcoin educator, entrepreneur and investor. Vice-President of the Plan ₿ Foundation. Articles, talks, interviews and podcasts in one place.",
+  "description": "Giacomo Zucco: Bitcoin educator, entrepreneur and investor. Articles, talks, interviews and podcasts in one place.",
   "url": "https://www.giacomozucco.com",
   "booking": "https://lncal.com/giacomozucco",
   "lightningAddress": "giacomozucco@getalby.com",
   "youtube": "https://www.youtube.com/channel/UCYAZrTL0h0EaGahEPn6qxAg",
-  "planb": { "name": "Plan ₿ Foundation", "url": "https://planb.lugano.ch/" },
   "orgs": [
+    { "name": "Plan ₿ Foundation", "url": "https://planb.lugano.ch/" },
+    { "name": "Plan B Network SA", "url": "https://planb.network/" },
     { "name": "OCEAN", "url": "https://ocean.xyz/" },
     { "name": "Bull Bitcoin Switzerland", "url": "https://www.bullbitcoin.com/", "todo": "No Swiss-specific site found; links to the global Bull Bitcoin site" },
     { "name": "Breez", "url": "https://breez.technology/" },

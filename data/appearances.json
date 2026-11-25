@@ -1,0 +1,41 @@
+[
+  {
+    "placeholder": true,
+    "date": "2025-10-24",
+    "title": "PLACEHOLDER: Panel on bitcoin self-custody",
+    "event": "Example Conference 2025",
+    "format": "panel",
+    "media": "video",
+    "language": "en",
+    "links": [{ "label": "YouTube", "url": "https://www.youtube.com/watch?v=XXXXXXXXXXX" }],
+    "timestamps": { "start": "01:12:30", "end": "01:41:05" },
+    "context": "Example entry showing the format. Replace with the real list.",
+    "topics": ["self-custody", "lightning"]
+  },
+  {
+    "placeholder": true,
+    "date": "2025-06-12",
+    "title": "PLACEHOLDER: Intervista su Bitcoin e privacy",
+    "event": "Example Podcast (Italian)",
+    "format": "interview",
+    "media": "audio",
+    "language": "it",
+    "links": [{ "label": "Episode", "url": "https://example.com/episode-42" }],
+    "timestamps": { "start": "00:03:10" },
+    "context": "Example entry showing an audio-only appearance.",
+    "topics": ["privacy"]
+  },
+  {
+    "placeholder": true,
+    "date": "2024-11-15",
+    "title": "PLACEHOLDER: Keynote in Spanish",
+    "event": "Example Bitcoin Week",
+    "format": "talk",
+    "media": "video",
+    "language": "es",
+    "links": [{ "label": "YouTube", "url": "https://youtu.be/XXXXXXXXXXX" }],
+    "timestamps": { "start": "00:45:00", "end": "01:05:00" },
+    "context": "Example entry in a language other than Italian or English.",
+    "topics": ["education"]
+  }
+]

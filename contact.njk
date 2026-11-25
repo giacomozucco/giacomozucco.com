@@ -1,0 +1,22 @@
+---
+layout: base.njk
+title: Contact
+description: How to reach Giacomo Zucco.
+permalink: /contact/
+---
+<h1><span class="dim">&gt;</span> contact</h1>
+<p class="lead">Every channel below ends up in the same place: I receive everything on Matrix anyway, so pick whichever you prefer. The only exception is privacy: for anything sensitive, use Signal.</p>
+
+<dl class="contacts">
+  <dt>email</dt><dd><a href="mailto:me@giacomozucco.com">me@giacomozucco.com</a></dd>
+  <dt>signal</dt><dd><code>giacomozucco.83</code> <span class="dim">(username, preferred for privacy)</span></dd>
+  <dt>telegram</dt><dd><a href="https://t.me/giacomozucco">@giacomozucco</a></dd>
+  <dt>x</dt><dd><a href="https://x.com/giacomozucco">@giacomozucco</a></dd>
+  {# TODO: confirm this npub. Seen on a public Nostr profile named "Giacomo Zucco" (damus.io), not yet confirmed by Giacomo. #}
+  <dt>nostr</dt><dd><a href="https://njump.me/npub1au23c73cpaq2whtazjf6cdrmvam6nkd4lg928nwmgl78374kn29sq9t53j" class="break">npub1au23c73cpaq2whtazjf6cdrmvam6nkd4lg928nwmgl78374kn29sq9t53j</a></dd>
+  <dt>github</dt><dd><a href="https://github.com/giacomozucco">giacomozucco</a></dd>
+  <dt>youtube</dt><dd><a href="{{ site.youtube }}">channel</a></dd>
+  {# TODO: LinkedIn, if Giacomo wants it listed (no verified profile URL found). #}
+  <dt>lightning</dt><dd><code>{{ site.lightningAddress }}</code> <a href="lightning:{{ site.lightningAddress }}" data-open-dialog="donate-dialog">(donate)</a></dd>
+  <dt>meetings</dt><dd><a href="{{ site.booking }}">book my time</a></dd>
+</dl>

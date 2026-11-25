@@ -1,0 +1,39 @@
+---
+layout: base.njk
+title: Giacomo Zucco
+---
+<section class="hero">
+  <img class="avatar" src="/img/giacomo.png" alt="Portrait of Giacomo Zucco" width="160" height="160">
+  <div>
+    <h1 class="hero-name">Giacomo Zucco<span class="cursor" aria-hidden="true"></span></h1>
+    <p class="hero-role">Vice-President, <a href="{{ site.planb.url }}">{{ site.planb.name }}</a></p>
+    <p class="hero-tag">{{ site.tagline }}</p>
+    <p class="actions">
+      {# LNcal for now; see the TODO in base.njk about the self-hosted replacement. #}
+      <a class="btn" href="{{ site.booking }}">Book my time</a>
+      {% include "donate-button.njk" %}
+      <a class="btn btn-ghost" href="/contact/">Contact</a>
+    </p>
+  </div>
+</section>
+
+<section class="bio" aria-labelledby="bio-title">
+  <h2 id="bio-title"><span class="dim">#</span> about</h2>
+  <p>Giacomo Zucco is a Bitcoin educator, entrepreneur and investor based in Lugano, Switzerland. He is Vice-President of the <a href="{{ site.planb.url }}">{{ site.planb.name }}</a>.</p>
+  <p>In 2016 he conceived RGB together with Peter Todd, and in 2019 he co-founded the LNP/BP Standards Association with Maxim Orlovsky.</p>
+  <p>He serves as an advisor, investor, board member or director for {% set lastWord = "and" %}{% set govName = "the Government of El Salvador" %}{% include "orgs.njk" %}.</p>
+  <details lang="it">
+    <summary>Biografia in italiano</summary>
+    <p>Giacomo Zucco è divulgatore, imprenditore e investitore Bitcoin, con base a Lugano. È Vicepresidente della <a href="{{ site.planb.url }}">{{ site.planb.name }}</a>.</p>
+    <p>Nel 2016 ha ideato RGB insieme a Peter Todd e nel 2019 ha fondato la LNP/BP Standards Association con Maxim Orlovsky.</p>
+    <p>Ricopre ruoli di advisor, investitore, membro del consiglio di amministrazione o direttore per {% set lastWord = "e" %}{% set govName = "il Governo di El Salvador" %}{% include "orgs.njk" %}.</p>
+  </details>
+</section>
+
+<section aria-labelledby="latest-title">
+  <h2 id="latest-title"><span class="dim">#</span> latest</h2>
+  <ul class="items">
+    {% for item in collections.everything | limit(6) %}{% include "item.njk" %}{% endfor %}
+  </ul>
+  <p><a class="more" href="/content/">browse everything: articles, talks, interviews, podcasts →</a></p>
+</section>

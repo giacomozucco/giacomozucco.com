@@ -1,0 +1,45 @@
+---
+layout: base.njk
+title: Content
+description: Articles, talks, interviews and podcasts by Giacomo Zucco, filterable by type, language and year.
+permalink: /content/
+---
+<h1><span class="dim">&gt;</span> content</h1>
+<p class="lead">Everything in one place: written articles and video or audio appearances (talks, panels, interviews, podcasts). Video links jump straight to my part when the timestamp is known.</p>
+
+<form class="filters" id="filters" aria-label="Filter content" hidden>
+  <fieldset>
+    <legend>type</legend>
+    <label><input type="radio" name="type" value="all" checked> all</label>
+    <label><input type="radio" name="type" value="text"> text</label>
+    <label><input type="radio" name="type" value="media"> video/audio</label>
+    <label><input type="radio" name="type" value="audio"> audio only</label>
+  </fieldset>
+  <fieldset>
+    <legend>language</legend>
+    <label><input type="radio" name="lang" value="all" checked> all</label>
+    <label><input type="radio" name="lang" value="it"> italian</label>
+    <label><input type="radio" name="lang" value="en"> english</label>
+    <label><input type="radio" name="lang" value="other"> other</label>
+  </fieldset>
+  <fieldset class="row">
+    <label>year
+      <select name="year">
+        <option value="all">all</option>
+        {% for y in collections.everything | uniqueYears %}<option value="{{ y }}">{{ y }}</option>{% endfor %}
+      </select>
+    </label>
+    <label>order
+      <select name="order">
+        <option value="desc">newest first</option>
+        <option value="asc">oldest first</option>
+      </select>
+    </label>
+  </fieldset>
+  <p class="count dim" aria-live="polite"></p>
+</form>
+
+<ul class="items" id="items">
+  {% for item in collections.everything %}{% include "item.njk" %}{% endfor %}
+</ul>
+<p class="empty dim" id="empty" hidden>Nothing matches these filters.</p>

@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="{{ pageLang or 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- set pageTitle = (title + " | " + site.name) if (title and title != site.name) else (site.name + " | " + site.tagline) %}
+  <title>{{ pageTitle }}</title>
+  <meta name="description" content="{{ description or site.description }}">
+  <meta name="color-scheme" content="dark">
+  <meta name="theme-color" content="#0a0f0c">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <meta property="og:site_name" content="{{ site.name }}">
+  <meta property="og:title" content="{{ title or site.name }}">
+  <meta property="og:description" content="{{ description or site.description }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:image" content="{{ site.url }}{{ image or '/img/giacomo.png' }}">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@giacomozucco">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+  <link rel="manifest" href="/manifest.json">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="/feed.xml">
+  <link rel="preload" href="/assets/fonts/jetbrains-mono-700.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/assets/style.css">
+  <script src="/assets/site.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap bar">
+      <a class="brand" href="/" aria-label="Home"><span class="prompt" aria-hidden="true">&gt;</span> giacomo<span class="dim">zucco</span></a>
+      <nav aria-label="Main">
+        <a href="/content/"{% if page.url.startsWith('/content/') %} aria-current="page"{% endif %}>content</a>
+        <a href="/contact/"{% if page.url.startsWith('/contact/') %} aria-current="page"{% endif %}>contact</a>
+        {# Booking: LNcal for now. TODO: replace with a self-hosted, Calendly-like
+           scheduling tool that accepts bitcoin payments (link lives in _data/site.json). #}
+        <a class="btn btn-small" href="{{ site.booking }}">book my time</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="wrap">
+    {{ content | safe }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <div class="footer-row">
+        <p class="nocopy">No copyright: I don't believe in intellectual property. Copy, remix and share freely.</p>
+        {% include "donate-button.njk" %}
+      </div>
+      <p class="dim small">
+        <a href="https://x.com/giacomozucco">X</a> ·
+        <a href="https://github.com/giacomozucco">GitHub</a> ·
+        <a href="{{ site.youtube }}">YouTube</a> ·
+        <a href="/contact/">all contacts</a> ·
+        <a href="/feed.xml">RSS</a> ·
+        <a href="https://github.com/giacomozucco/giacomozucco.com">source</a> (PRs welcome)
+      </p>
+    </div>
+  </footer>
+  {% include "donate.njk" %}
+</body>
+</html>

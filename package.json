@@ -1,39 +1,23 @@
 {
-  "name": "blog",
-  "author": "Giacomo Zucco",
-  "description": "Personal website and blog",
-  "version": "0.1.0",
+  "name": "giacomozucco.com",
+  "private": true,
+  "description": "Personal website of Giacomo Zucco",
   "license": "MIT",
+  "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/giacomozucco/blog.git"
+    "url": "git+https://github.com/giacomozucco/giacomozucco.com.git"
   },
-  "keywords": [
-    "laravel",
-    "vuejs",
-    "vuepress",
-    "php",
-    "blog"
-  ],
   "scripts": {
-    "watch": "npm run dev",
-    "dev": "vuepress dev",
-    "build": "vuepress build"
+    "dev": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "engines": {
+    "node": ">=18"
   },
   "devDependencies": {
-    "@vue/babel-preset-app": "^4.4.6",
-    "@vuepress/plugin-blog": "^1.9.2",
-    "@vuepress/plugin-google-analytics": "^1.5.2",
-    "autoprefixer": "^9.8.5",
-    "moment": "^2.27.0",
-    "svg-inline-loader": "^0.8.2",
-    "tailwindcss": "^1.4.6",
-    "tailwindcss-plugins": "^0.3.0",
-    "vuepress": "^1.5.2",
-    "vuepress-plugin-disqus": "^0.2.0",
-    "vuepress-plugin-seo": "^0.1.4"
-  },
-  "dependencies": {
-    "qrcode.vue": "^1.7.0"
+    "@11ty/eleventy": "^3.1.2",
+    "@fontsource/jetbrains-mono": "^5.3.0",
+    "qrcode": "^1.5.4"
   }
 }

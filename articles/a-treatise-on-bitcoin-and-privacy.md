@@ -9,7 +9,7 @@ type: text
 topics: ['bitcoin', 'privacy']
 ---
 
-![](https://web.archive.org/web/20220512103722im_/https://giacomozucco.com/wp-content/uploads/2020/06/Bitcoin_and_Privacy.jpeg)
+![](/img/articles/Bitcoin_and_Privacy.jpeg)
 
 _(originally published at [Bitcoin Magazine](https://web.archive.org/web/20220512103722/https://bitcoinmagazine.com/articles/a-treatise-on-bitcoin-and-privacy-part-1-a-match-made-in-the-whitepaper))_
 

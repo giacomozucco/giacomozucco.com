@@ -19,14 +19,30 @@ function media(v) {
   return k.includes("audio") || k.includes("podcast") ? "audio" : "video";
 }
 
+// Friendly names for link hosts; unknown hosts fall back to the bare domain.
+const HOSTS = {
+  "youtube.com": "YouTube", "youtu.be": "YouTube", "m.youtube.com": "YouTube",
+  "podcasts.apple.com": "Apple Podcasts", "open.spotify.com": "Spotify", "spotify.com": "Spotify",
+  "api.riverside.com": "Riverside", "riverside.fm": "Riverside", "bitcointv.com": "BitcoinTV",
+  "rumble.com": "Rumble", "x.com": "X", "twitter.com": "X", "fountain.fm": "Fountain",
+  "vimeo.com": "Vimeo", "soundcloud.com": "SoundCloud", "anchor.fm": "Anchor",
+};
+function hostLabel(url) {
+  const h = new URL(url).hostname.replace(/^www\./, "");
+  return HOSTS[h] || h;
+}
+
 function links(a) {
   let l = a.links ?? a.link ?? a.url ?? a.urls ?? [];
   if (!Array.isArray(l)) l = [l];
   return l
     .map((x) => (typeof x === "string" ? { label: null, url: x } : { label: x.label || x.name || null, url: x.url || x.href }))
     .filter((x) => x.url)
-    .map((x) => ({ ...x, label: x.label || new URL(x.url).hostname.replace(/^www\./, "") }));
+    .map((x) => ({ ...x, label: x.label || hostLabel(x.url) }));
 }
+
+// A start of 00:00:00 means the whole recording: no "my part" link needed.
+const zero = (t) => (t && /^0{1,2}:00(:00)?$/.test(t) ? null : t);
 
 export default async function () {
   let raw;
@@ -49,7 +65,7 @@ export default async function () {
         type: media(a.media ?? a.media_type ?? a.mediaType ?? a.type),
         language: lang(a.language ?? a.lang),
         links: links(a),
-        start: ts.start ?? a.start ?? null,
+        start: zero(ts.start ?? a.start ?? null),
         end: ts.end ?? a.end ?? null,
         description: a.context || a.description || null,
         topics: a.topics || a.tags || [],

@@ -9,6 +9,6 @@ type: video
 topics: ['bitcoin', 'culture']
 ---
 
-<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/GgFQgfssHBo" title="Unconfiscatable 2022 speech" loading="lazy" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe></div>
+<a class="video-link" href="https://www.youtube.com/watch?v=GgFQgfssHBo"><img src="/img/articles/unconfiscatable-2022-youtube.jpg" alt="Unconfiscatable 2022 speech" loading="lazy"><span>▶ watch on YouTube</span></a>
 
 My speech at unconfiscatable 2022 about bitcoin cultures.

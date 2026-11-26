@@ -89,13 +89,10 @@ nav .btn-small:hover { color: var(--bg); }
 .hero-name { margin-bottom: .4rem; text-shadow: 0 0 18px rgba(78, 227, 138, .18); }
 .hero-role { color: var(--accent); margin: 0; font-size: .95rem; }
 .hero-tag { color: var(--muted); margin: .2rem 0 1.2rem; }
-.actions { display: flex; flex-wrap: wrap; gap: .6rem; margin: 0; }
 .cursor { display: inline-block; width: .55em; height: 1em; margin-left: .15em; background: var(--accent); vertical-align: -0.12em; animation: blink 1.1s steps(1) infinite; }
 @keyframes blink { 50% { opacity: 0; } }
 @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
 
-details { margin-top: 1.25rem; border-left: 2px solid var(--line); padding-left: 1rem; }
-summary { cursor: pointer; color: var(--accent); font-family: var(--mono); font-size: .9rem; }
 
 /* content list */
 .items { list-style: none; margin: 0; padding: 0; }
@@ -144,8 +141,6 @@ summary { cursor: pointer; color: var(--accent); font-family: var(--mono); font-
 .prose pre { background: var(--surface); padding: 1rem; overflow-x: auto; border-radius: 4px; }
 .prose table { border-collapse: collapse; display: block; overflow-x: auto; }
 .prose th, .prose td { border: 1px solid var(--line); padding: .4rem .6rem; }
-.video { position: relative; aspect-ratio: 16 / 9; margin: 0 0 1.5rem; }
-.video iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; border-radius: 4px; }
 .article-footer { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--line); color: var(--muted); }
 
 /* contact */
@@ -171,3 +166,13 @@ dialog h2 { margin: 0 0 .5rem; text-transform: none; }
 .copy-label { font-family: var(--mono); font-size: .75rem; color: var(--muted); margin-left: .4rem; }
 .qr { display: block; margin: 1rem auto .5rem; width: 220px; max-width: 100%; }
 .qr svg { display: block; width: 100%; height: auto; border-radius: 4px; }
+
+/* footer notes */
+.nocopy p { margin: 0 0 .5rem; }
+.no-eu { width: 27px; height: 18px; vertical-align: -3px; margin-left: .3rem; }
+
+/* video link (no third-party embed: nothing loads from YouTube until clicked) */
+.video-link { position: relative; display: block; margin: 0 0 1.5rem; border-radius: 4px; overflow: hidden; text-decoration: none; }
+.video-link img { display: block; width: 100%; height: auto; opacity: .75; }
+.video-link span { position: absolute; left: 1rem; bottom: 1rem; background: var(--bg); color: var(--accent); font-family: var(--mono); font-size: .9rem; padding: .3rem .6rem; border-radius: 3px; }
+.video-link:hover img { opacity: 1; }

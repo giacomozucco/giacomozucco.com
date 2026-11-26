@@ -12,14 +12,14 @@
     { "name": "OCEAN", "url": "https://ocean.xyz/" },
     { "name": "Bull Bitcoin Switzerland", "url": "https://www.bullbitcoin.com/", "todo": "No Swiss-specific site found; links to the global Bull Bitcoin site" },
     { "name": "Breez", "url": "https://breez.technology/" },
-    { "name": "LNVenture", "url": null, "todo": "Official site not found, add the URL" },
+    { "name": "LTNG Ventures", "url": "https://ltng.ventures/" },
     { "name": "Enclavia", "url": "https://enclavia.io/" },
     { "name": "Satsback", "url": "https://satsback.com/" },
     { "name": "Geyser", "url": "https://geyser.fund/" },
     { "name": "Relai", "url": "https://relai.app/" },
     { "name": "Debifi", "url": "https://debifi.com/" },
     { "name": "BitVault", "url": "https://bitvault.sv/" },
-    { "name": "RGB Association", "url": "https://rgb.tech/", "todo": "rgb.tech is maintained by the LNP/BP Standards Association; confirm this is the right link" },
+    { "name": "RGB Protocol Association", "url": "https://rgbprotocol.org/" },
     { "name": "Courage International", "url": null, "todo": "Official site not found, add the URL" },
     { "name": "the Government of El Salvador", "url": null, "todo": "No official page found for the National Bitcoin Office, add one if wanted" }
   ]

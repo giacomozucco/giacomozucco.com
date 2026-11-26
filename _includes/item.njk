@@ -1,0 +1,29 @@
+{# One row in a content list. `item` comes from collections.everything. #}
+<li class="item" data-type="{{ item.type }}" data-lang="{{ item.language | languageGroup }}" data-year="{{ item.date | year }}">
+  <div class="item-meta">
+    <time datetime="{{ item.date | isoDate }}">{{ item.date | isoDate }}</time>
+    <span class="tag tag-{{ item.type }}">{% if item.type == 'text' %}text{% elif item.type == 'audio' %}audio{% else %}video{% endif %}</span>
+    <span class="tag">{{ item.language | upper }}</span>
+    {% if item.placeholder %}<span class="tag tag-warn">placeholder</span>{% endif %}
+  </div>
+  <h3 class="item-title">
+    {% if item.kind == 'article' %}<a href="{{ item.url }}">{{ item.title }}</a>
+    {% elif item.links.length %}<a href="{{ item.links[0].url | withStart(item.start) }}">{{ item.title }}</a>
+    {% else %}{{ item.title }}{% endif %}
+  </h3>
+  {% if item.event or item.format %}<p class="item-sub">{{ item.event }}{% if item.event and item.format %} · {% endif %}{{ item.format }}</p>{% endif %}
+  {% if item.description %}<p class="item-desc">{{ item.description }}</p>{% endif %}
+  {% if item.kind == 'appearance' and item.parts %}
+  <ol class="item-parts">
+    {% for p in item.parts %}<li><span class="part-title">{{ p.title }}</span>{% if p.date %} <time datetime="{{ p.date | isoDate }}">{{ p.date | isoDate }}</time>{% endif %}
+      <span class="item-links">{% if p.start and p.links.length %}<a class="jump" href="{{ p.links[0].url | withStart(p.start) }}">▶ my part: {{ p.start }}{% if p.end %} to {{ p.end }}{% endif %}</a>{% endif %}{% for l in p.links %}<a href="{{ l.url }}">{{ l.label }}</a>{% endfor %}</span></li>
+    {% endfor %}
+  </ol>
+  {% elif item.kind == 'appearance' %}
+  <p class="item-links">
+    {% if item.start and item.links.length %}<a class="jump" href="{{ item.links[0].url | withStart(item.start) }}">▶ my part: {{ item.start }}{% if item.end %} to {{ item.end }}{% endif %}</a>{% endif %}
+    {% for l in item.links %}<a href="{{ l.url }}">{{ l.label }}</a>{% endfor %}
+  </p>
+  {% endif %}
+  {% if item.topics.length %}<p class="item-topics">{% for t in item.topics %}<span>#{{ t }}</span>{% endfor %}</p>{% endif %}
+</li>

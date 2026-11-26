@@ -1,0 +1,9 @@
+{# Lightning donation dialog, included once in base.njk. Opened by any [data-open-dialog="donate-dialog"] link. #}
+  <dialog id="donate-dialog" aria-labelledby="donate-title">
+    <form method="dialog" class="dialog-close"><button aria-label="Close">×</button></form>
+    <h2 id="donate-title">Every contribution matters</h2>
+    <p class="dim">Send sats to this Lightning address:</p>
+    <p><button type="button" class="copy" data-copy="{{ site.lightningAddress }}"><code>{{ site.lightningAddress }}</code> <span class="copy-label">copy</span></button></p>
+    <a class="qr" href="lightning:{{ site.lightningAddress }}" aria-label="Open in your Lightning wallet">{% qr "lightning:" + site.lightningAddress %}</a>
+    <p class="dim small">Scan the QR, or click it to open your wallet.</p>
+  </dialog>

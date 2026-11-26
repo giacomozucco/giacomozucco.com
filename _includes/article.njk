@@ -1,0 +1,13 @@
+---
+layout: base.njk
+---
+<article class="article">
+  <header class="article-header">
+    <p class="crumbs"><a href="/content/">← all content</a></p>
+    <h1>{{ title }}</h1>
+    <p class="dim"><time datetime="{{ page.date | isoDate }}">{{ page.date | readableDate }}</time> · {{ language | languageName }}{% if topics %} · {% for t in topics %}#{{ t }} {% endfor %}{% endif %}</p>
+  </header>
+  <div class="prose">
+    {{ content | safe }}
+  </div>
+</article>

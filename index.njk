@@ -1,0 +1,24 @@
+---
+layout: base.njk
+title: Giacomo Zucco
+---
+<section class="hero">
+  <img class="avatar" src="/img/giacomo.png" alt="Portrait of Giacomo Zucco" width="160" height="160">
+  <div>
+    <h1 class="hero-name">Giacomo Zucco<span class="cursor" aria-hidden="true"></span></h1>
+    <p class="hero-tag">{{ site.tagline }}</p>
+  </div>
+</section>
+
+<section class="disclosure" aria-labelledby="disclosure-title">
+  <h2 id="disclosure-title"><span class="dim">#</span> disclosure</h2>
+  <p>I am involved as a board member, local director, investor or advisor in the following entities: {% set lastWord = "and" %}{% set govName = "the Government of El Salvador" %}{% include "orgs.njk" %}.</p>
+</section>
+
+<section aria-labelledby="latest-title">
+  <h2 id="latest-title"><span class="dim">#</span> latest</h2>
+  <ul class="items">
+    {% for item in collections.everything | limit(6) %}{% include "item.njk" %}{% endfor %}
+  </ul>
+  <p><a class="more" href="/content/">browse everything: articles, talks, interviews, podcasts →</a></p>
+</section>

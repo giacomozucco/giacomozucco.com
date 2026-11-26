@@ -1,0 +1,26 @@
+{
+  "name": "Giacomo Zucco",
+  "tagline": "Bitcoin educator, entrepreneur and investor",
+  "description": "Giacomo Zucco: Bitcoin educator, entrepreneur and investor. Articles, talks, interviews and podcasts in one place.",
+  "url": "https://www.giacomozucco.com",
+  "booking": "https://lncal.com/giacomozucco",
+  "lightningAddress": "giacomozucco@getalby.com",
+  "youtube": "https://www.youtube.com/channel/UCYAZrTL0h0EaGahEPn6qxAg",
+  "orgs": [
+    { "name": "Plan ₿ Foundation", "url": "https://planb.lugano.ch/" },
+    { "name": "Plan B Network SA", "url": "https://planb.network/" },
+    { "name": "OCEAN", "url": "https://ocean.xyz/" },
+    { "name": "Bull Bitcoin Switzerland", "url": "https://www.bullbitcoin.com/", "todo": "No Swiss-specific site found; links to the global Bull Bitcoin site" },
+    { "name": "Breez", "url": "https://breez.technology/" },
+    { "name": "LTNG Ventures", "url": "https://ltng.ventures/" },
+    { "name": "Enclavia", "url": "https://enclavia.io/" },
+    { "name": "Satsback", "url": "https://satsback.com/" },
+    { "name": "Geyser", "url": "https://geyser.fund/" },
+    { "name": "Relai", "url": "https://relai.app/" },
+    { "name": "Debifi", "url": "https://debifi.com/" },
+    { "name": "BitVault", "url": "https://bitvault.sv/" },
+    { "name": "RGB Protocol Association", "url": "https://rgbprotocol.org/" },
+    { "name": "Courage International", "url": "https://courageinternational.org/" },
+    { "name": "the Government of El Salvador", "url": "https://rree.gob.sv/gobierno-de-el-salvador-inaugura-consulado-honorario-en-la-ciudad-de-lugano-suiza/" }
+  ]
+}

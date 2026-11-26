@@ -1,0 +1,6 @@
+{# Renders site.orgs as a linked, comma-separated list. Set `lastWord` ("and" / "e") and `govName` before including. #}
+{%- for o in site.orgs -%}
+{%- set label = govName if (loop.last and govName) else o.name -%}
+{%- if loop.last %} {{ lastWord }} {% elif not loop.first %}, {% endif -%}
+{%- if o.url %}<a href="{{ o.url }}">{{ label }}</a>{% else %}{{ label }}{% endif -%}
+{%- endfor -%}

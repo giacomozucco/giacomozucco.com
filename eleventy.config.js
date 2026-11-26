@@ -38,11 +38,13 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ public: "/" });
   eleventyConfig.addPassthroughCopy({ "assets": "/assets" });
   // Self-hosted font (no requests to third parties).
-  for (const w of [400, 700]) {
-    eleventyConfig.addPassthroughCopy({
-      [`node_modules/@fontsource/jetbrains-mono/files/jetbrains-mono-latin-${w}-normal.woff2`]: `/assets/fonts/jetbrains-mono-${w}.woff2`,
-    });
-  }
+  // DejaVu Sans Mono: the default terminal font on most Linux distributions.
+  const fontDir = "node_modules/@fontsource/dejavu-mono/files";
+  eleventyConfig.addPassthroughCopy({
+    [`${fontDir}/dejavu-mono-latin-400-normal.woff2`]: "/assets/fonts/dejavu-mono-400.woff2",
+    [`${fontDir}/dejavu-mono-latin-700-normal.woff2`]: "/assets/fonts/dejavu-mono-700.woff2",
+    [`${fontDir}/dejavu-mono-latin-400-italic.woff2`]: "/assets/fonts/dejavu-mono-400-italic.woff2",
+  });
 
   eleventyConfig.addWatchTarget("data/");
   eleventyConfig.ignores.add("README.md");

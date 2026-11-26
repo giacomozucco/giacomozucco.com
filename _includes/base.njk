@@ -21,7 +21,7 @@
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
   <link rel="manifest" href="/manifest.json">
   <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="/feed.xml">
-  <link rel="preload" href="/assets/fonts/jetbrains-mono-700.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/assets/fonts/dejavu-mono-400.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="/assets/style.css">
   <script src="/assets/site.js" defer></script>
 </head>
@@ -33,9 +33,6 @@
       <nav aria-label="Main">
         <a href="/content/"{% if page.url.startsWith('/content/') %} aria-current="page"{% endif %}>content</a>
         <a href="/contact/"{% if page.url.startsWith('/contact/') %} aria-current="page"{% endif %}>contact</a>
-        {# Booking: LNcal for now. TODO: replace with a self-hosted, Calendly-like
-           scheduling tool that accepts bitcoin payments (link lives in _data/site.json). #}
-        <a class="btn btn-small" href="{{ site.booking }}">book my time</a>
       </nav>
     </div>
   </header>

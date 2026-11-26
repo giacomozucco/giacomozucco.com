@@ -1,7 +1,7 @@
 ---
 title: 'A Treatise on Bitcoin and Privacy'
 description: 'A Treatise on Bitcoin and Privacy (originally published at Bitcoin Magazine)'
-date: 2022-07-27
+date: 2020-03-18
 permalink: /a-treatise-on-bitcoin-and-privacy/
 image: /covers/privacy.jpeg
 language: en

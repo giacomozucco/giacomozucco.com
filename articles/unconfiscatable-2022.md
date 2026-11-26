@@ -1,7 +1,7 @@
 ---
 title: 'Unconfiscatable 2022'
 description: 'My speech at Unconfiscatable 2022 about bitcoin cultures'
-date: 2022-07-27
+date: 2022-03-18
 permalink: /unconfiscatable-2022/
 image: /covers/unconfiscatable.png
 language: en

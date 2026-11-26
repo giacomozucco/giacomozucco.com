@@ -1,7 +1,7 @@
 ---
 title: 'LNP/BP: A gentle introduction'
 description: 'LNP/BP: A gentle introduction (originally published at AlzaShop)'
-date: 2022-07-27
+date: 2020-07-21
 permalink: /lnp-bp-a-gentle-introduction/
 image: /covers/lightning.jpg
 language: en

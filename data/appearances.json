@@ -1,19 +1,5 @@
 [
  {
-  "date": "2026-11-16",
-  "title": "Realpolitik | Seconda parte | Giacomo Zucco",
-  "event": "Atlas21 - 'Quello che i Bitcoiner non dicono'",
-  "format": "podcast",
-  "media": "video",
-  "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=U6Kb8Mp4rSo",
-   "https://api.riverside.com/hosting-analytics/media/76dcef8ac20efed754d70af6d34892e35c07b18fa7c5b8da839d50d137830dfd/eyJlcGlzb2RlSWQiOiJlODU2NzJiYi05MTFmLTQ3NTgtYjY1MC03ZTZhOTFhZWQ4ODUiLCJwb2RjYXN0SWQiOiIyMThjMmQyZS01ZDZmLTRlZGItYjRmOC1iZmRlZTQyZDJiMzMiLCJhY2NvdW50SWQiOiI2OWRjZTVlZGNjYmVhMWEzNzA0ODBjNDkiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFmYjQ5ZjI3ZmYwYTg5ZDI0ZWMzMWVhL2ZlZGVyaWNvLXJpdmlzLXN0dWRpby0yMDI2LTExLTE2X18xOC0yMi00Mi5tcDMifQ==.mp3"
-  ],
-  "start": "00:17:57",
-  "end": "00:27:54"
- },
- {
   "date": "2026-11-12",
   "title": "Roundtable_026 - The Internet's Black October",
   "event": "Bitcoin Audible Roundtable_026",
@@ -27,47 +13,6 @@
   "end": "00:09:38"
  },
  {
-  "date": "2026-11-05",
-  "title": "GIACOMO ZUCCO: VI SPIEGO CHI COSTRUISCE LE STRADE",
-  "event": "Leonardo Facco editore",
-  "format": "interview",
-  "media": "video",
-  "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=ybe-mfLHeKY"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2026-11-02",
-  "title": "Taxed Enough Already | Prima parte | Giacomo Zucco",
-  "event": "Atlas21 - 'Quello che i Bitcoiner non dicono'",
-  "format": "podcast",
-  "media": "video",
-  "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=lCCaJganEUY",
-   "https://api.riverside.com/hosting-analytics/media/2b396da2bc6dbf38d6a7078a7a6b697451215199482710eb1d51d044c874233f/eyJlcGlzb2RlSWQiOiIwOGE3NWNjNy0wODE4LTRmNWYtODM1Yy0yMmUwYzBlZDE3NzYiLCJwb2RjYXN0SWQiOiIyMThjMmQyZS01ZDZmLTRlZGItYjRmOC1iZmRlZTQyZDJiMzMiLCJhY2NvdW50SWQiOiI2OWRjZTVlZGNjYmVhMWEzNzA0ODBjNDkiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFlOGNhNjYzZDY1NmFhODA2NGU0ZGE0L2ZlZGVyaWNvLXJpdmlzLXN0dWRpby0yMDI2LTExLTJfXzE3LTM3LTQyLm1wMyJ9.mp3",
-   "https://podcasts.apple.com/us/podcast/taxed-enough-already-prima-parte-giacomo-zucco/id1896226766"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2026-10-30",
-  "title": "Inside The $320,000,000 Bitcoin Hack | Giacomo Zucco",
-  "event": "BTC Prague Podcast",
-  "format": "podcast",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=TNY9GMEkybQ"
-  ],
-  "start": null,
-  "end": null
- },
- {
   "date": "2026-10-25",
   "title": "Giacomo Zucco on Bitcoin's Dollar Problem, Stablecoins and RGB | Stablecoin  Summit 2026",
   "event": "Stablecoin Summit (RGB Protocol Association), Lugano Plan B Week 2026",
@@ -76,35 +21,6 @@
   "language": "en",
   "links": [
    "https://www.youtube.com/watch?v=OpINDXo__XA"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2026-09-21",
-  "title": "The Truth About the UASF and BIP-110 with Giacomo Zucco | Bitcoin Infinity Show #221",
-  "event": "Bitcoin Infinity Show #221",
-  "format": "podcast",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=jChHCXfjSrE",
-   "https://fountain.fm/episode/leWzWJuNCgGUIOb2o7fD",
-   "https://podcasts.apple.com/us/podcast/the-truth-about-the-uasf-and-bip-110-with/id1641040522"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2026-09-08",
-  "title": "342. Hardware Wallets: Security or Liability",
-  "event": "The Bitcoin Standard Podcast ep. 342",
-  "format": "debate",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=a2hBc5Vxziw",
-   "https://pscrb.fm/rss/p/www.buzzsprout.com/1849151/episodes/19765232-342-hardware-wallets-security-or-liability.mp3"
   ],
   "start": null,
   "end": null
@@ -124,32 +40,6 @@
   "end": null
  },
  {
-  "date": "2026-08-31",
-  "title": "Bitcoin Core vs Hardware Wallets: JW & Giacomo Zucco Debate | Saifedean X Space",
-  "event": "Saifedean Ammous X Space (ricaricato da Rexpaces)",
-  "format": "debate",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=GTnJNvzjJ88"
-  ],
-  "start": "00:03:51",
-  "end": "00:06:36"
- },
- {
-  "date": "2026-08-20",
-  "title": "L'intervista a Giacomo Zucco - Codice 20/08/2026",
-  "event": "Codice, Rai 1 (Rai)",
-  "format": "interview",
-  "media": "video",
-  "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=LvV70Y7WasI"
-  ],
-  "start": null,
-  "end": null
- },
- {
   "date": "2026-08-17",
   "title": "Passato e futuro del Bitcoin, l'intervista a Giacomo Zucco - Codice 17/08/2026",
   "event": "Codice, Rai 1 (Rai)",
@@ -158,36 +48,6 @@
   "language": "it",
   "links": [
    "https://www.youtube.com/watch?v=sVpV2_pIC5Q"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2026-08-12",
-  "title": "Why Bitcoin BIP-110 failed - ft Giacomo Zucco",
-  "event": "The Block / The Starting Block",
-  "format": "podcast",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=T-MpKKqhOgQ",
-   "https://share.transistor.fm/s/2b0636e1",
-   "https://podcasts.apple.com/us/podcast/why-bitcoin-bip-110-failed-ft-giacomo-zucco/id6786772104",
-   "https://podcasts.apple.com/us/podcast/why-bitcoin-bip-110-failed-ft-giacomo-zucco/id6786768864"
-  ],
-  "start": "00:07:46",
-  "end": "00:08:00"
- },
- {
-  "date": "2026-08-10",
-  "title": "Giacomo Zucco, Max & Stacy: Hard Times, Stronger Tools",
-  "event": "Bitcoin Country Podcast",
-  "format": "podcast",
-  "media": "audio",
-  "language": "en",
-  "links": [
-   "https://rss.com/podcasts/bitcoin-country-podcast/3059775",
-   "https://podcasts.apple.com/us/podcast/giacomo-zucco-max-stacy-hard-times-stronger-tools/id6789339004"
   ],
   "start": null,
   "end": null
@@ -258,21 +118,6 @@
   ],
   "start": "00:00:00",
   "end": "00:01:47"
- },
- {
-  "date": "2026-03-16",
-  "title": "Why BIP-110 Will Fail | Giacomo Zucco | Bitcoin Infinity Show #194",
-  "event": "Bitcoin Infinity Show #194",
-  "format": "podcast",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=hBvlmFgQENw",
-   "https://fountain.fm/episode/5bNY4Ppmrsl04DrQipso",
-   "https://podcasts.apple.com/us/podcast/why-bip-110-will-fail-giacomo-zucco-bitcoin-infinity/id1641040522"
-  ],
-  "start": "00:00:00",
-  "end": "00:02:53"
  },
  {
   "date": "2026-03-13",
@@ -377,19 +222,6 @@
   "end": "00:04:04"
  },
  {
-  "date": "2025-11-04",
-  "title": "Giacomo Zucco Keynote Address - BTC in DC 2025",
-  "event": "BTC in DC 2025, Kennedy Center (giorno 2)",
-  "format": "talk",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=E2_z_qRoo6s"
-  ],
-  "start": null,
-  "end": null
- },
- {
   "date": "2025-10-25",
   "title": "Zucco/Guybrush moderati da Federico Rivi. Svizzera vs Italia. Spazio21 Lugano Plan B Forum 25 10 25",
   "event": "Lugano Plan B Forum 2025 (24-25 ott 2025) - Spazio21",
@@ -398,20 +230,6 @@
   "language": "it",
   "links": [
    "https://www.youtube.com/watch?v=XPhTeZaOiWk"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2025-10-14",
-  "title": "BONUS 004 - Giacomo Zucco: Governance Innovation Meets Bitcoin",
-  "event": "Free Cities Podcast",
-  "format": "podcast",
-  "media": "audio",
-  "language": "en",
-  "links": [
-   "https://fountain.fm/episode/CznBcyiApWPOqLrYaiZS",
-   "https://podcasts.apple.com/us/podcast/bonus-004-giacomo-zucco-governance-innovation-meets/id1655921100"
   ],
   "start": null,
   "end": null
@@ -451,20 +269,6 @@
   "language": "en",
   "links": [
    "https://www.youtube.com/watch?v=-SZWXoj47wY"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2025-09-21",
-  "title": "La Storia di Bitcoin - il 2025: Faide Interne e Istutuzionali - Giacomo Zucco e turtlecute",
-  "event": "Il Priorato del Bitcoin",
-  "format": "podcast",
-  "media": "audio",
-  "language": "it",
-  "links": [
-   "https://podcasters.spotify.com/pod/show/turtle-cute5/episodes/La-Storia-di-Bitcoin---il-2025-Faide-Interne-e-Istutuzionali---Giacomo-Zucco-e-turtlecute-e38gr9e",
-   "https://podcasts.apple.com/us/podcast/la-storia-di-bitcoin-il-2025-faide-interne-e/id1668567418"
   ],
   "start": null,
   "end": null
@@ -1177,19 +981,6 @@
   "end": null
  },
  {
-  "date": "2023-12-31",
-  "title": "La storia di Bitcoin - Il 2023 - Turtlecute & Giacomo Zucco",
-  "event": "Il Priorato del Bitcoin",
-  "format": "podcast",
-  "media": "audio",
-  "language": "it",
-  "links": [
-   "https://podcasters.spotify.com/pod/show/turtle-cute5/episodes/La-storia-di-Bitcoin---Il-2023---Turtlecute--Giacomo-Zucco-e2drhaa"
-  ],
-  "start": null,
-  "end": null
- },
- {
   "date": "2023-12-28",
   "title": "Regarding Ordinals with Giacomo Zucco - FFS 78",
   "event": "Bitcoin Infinity Show",
@@ -1763,20 +1554,6 @@
   "end": null
  },
  {
-  "date": "2022-11-20",
-  "title": "La storia di bitcoin - Il presente e il futuro del protocollo - Turtlecute & Giacomo Zucco",
-  "event": "Il Priorato del Bitcoin",
-  "format": "podcast",
-  "media": "audio",
-  "language": "it",
-  "links": [
-   "https://podcasters.spotify.com/pod/show/turtle-cute5/episodes/La-storia-di-bitcoin---Il-presente-e-il-futuro-del-protocollo---Turtlecute--Giacomo-Zucco-e1quan2",
-   "https://podcasts.apple.com/us/podcast/la-storia-di-bitcoin-il-presente-e-il-futuro/id1668567418"
-  ],
-  "start": null,
-  "end": null
- },
- {
   "date": "2022-11-16",
   "title": "Brief history of payment protocols in bitcoin - Giacomo Zucco - Adopting Bitcoin Day 2 - Galoy Stage",
   "event": "Adopting Bitcoin 2022 - Galoy Stage",
@@ -1798,20 +1575,6 @@
   "language": "en",
   "links": [
    "https://www.youtube.com/watch?v=-HxHmNj7l60"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2022-11-13",
-  "title": "La storia di bitcoin - L'epoca ¨moderna\" del procollo - Turtlecute & Giacomo Zucco",
-  "event": "Il Priorato del Bitcoin",
-  "format": "podcast",
-  "media": "audio",
-  "language": "it",
-  "links": [
-   "https://podcasters.spotify.com/pod/show/turtle-cute5/episodes/La-storia-di-bitcoin---Lepoca-moderna-del-procollo---Turtlecute--Giacomo-Zucco-e1qmgpa",
-   "https://podcasts.apple.com/us/podcast/la-storia-di-bitcoin-lepoca-moderna-del-procollo-turtlecute/id1668567418"
   ],
   "start": null,
   "end": null
@@ -1843,34 +1606,6 @@
   "end": null
  },
  {
-  "date": "2022-11-06",
-  "title": "La storia di bitcoin - Block size war | parte 2 - Turtlecute & Giacomo Zucco",
-  "event": "Il Priorato del Bitcoin",
-  "format": "podcast",
-  "media": "audio",
-  "language": "it",
-  "links": [
-   "https://podcasters.spotify.com/pod/show/turtle-cute5/episodes/La-storia-di-bitcoin---Block-size-war--parte-2---Turtlecute--Giacomo-Zucco-e1qaopm",
-   "https://podcasts.apple.com/us/podcast/la-storia-di-bitcoin-block-size-war-parte-2-turtlecute/id1668567418"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2022-10-30",
-  "title": "La storia di bitcoin - Block size war | parte 1 - Turtlecute & Giacomo Zucco",
-  "event": "Il Priorato del Bitcoin",
-  "format": "podcast",
-  "media": "audio",
-  "language": "it",
-  "links": [
-   "https://podcasters.spotify.com/pod/show/turtle-cute5/episodes/La-storia-di-bitcoin---Block-size-war--parte-1---Turtlecute--Giacomo-Zucco-e1pr92v",
-   "https://podcasts.apple.com/us/podcast/la-storia-di-bitcoin-block-size-war-parte-1-turtlecute/id1668567418"
-  ],
-  "start": null,
-  "end": null
- },
- {
   "date": "2022-10-27",
   "title": "Giacomo Zucco: The truth about KYC and freedom of speach",
   "event": "StartwithBitcoin",
@@ -1879,20 +1614,6 @@
   "language": "en",
   "links": [
    "https://www.youtube.com/watch?v=BxKE5wcgKqE"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2022-10-23",
-  "title": "La storia di bitcoin - Gli anni della pubertá del protocollo - Turtlecute & Giacomo zucco",
-  "event": "Il Priorato del Bitcoin",
-  "format": "podcast",
-  "media": "audio",
-  "language": "it",
-  "links": [
-   "https://podcasters.spotify.com/pod/show/turtle-cute5/episodes/La-storia-di-bitcoin---Gli-anni-della-pubert-del-protocollo---Turtlecute--Giacomo-zucco-e1pl10r",
-   "https://podcasts.apple.com/us/podcast/la-storia-di-bitcoin-gli-anni-della-pubert%C3%A1-del-protocollo/id1668567418"
   ],
   "start": null,
   "end": null
@@ -1911,20 +1632,6 @@
   "end": null
  },
  {
-  "date": "2022-10-16",
-  "title": "La storia di bitcoin - Satoshi Nakamoto - Turtlecute & Giacomo Zucco",
-  "event": "Il Priorato del Bitcoin",
-  "format": "podcast",
-  "media": "audio",
-  "language": "it",
-  "links": [
-   "https://podcasters.spotify.com/pod/show/turtle-cute5/episodes/La-storia-di-bitcoin---Satoshi-Nakamoto---Turtlecute--Giacomo-Zucco-e1pb86g",
-   "https://podcasts.apple.com/us/podcast/la-storia-di-bitcoin-satoshi-nakamoto-turtlecute-giacomo/id1668567418"
-  ],
-  "start": null,
-  "end": null
- },
- {
   "date": "2022-10-13",
   "title": "The Multichain Debate w/ Sergej Kotliar, Giacomo Zucco",
   "event": "Bitcoin Amsterdam 2022",
@@ -1933,20 +1640,6 @@
   "language": "en",
   "links": [
    "https://www.youtube.com/watch?v=UWZnc5uWD-c"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2022-10-09",
-  "title": "La storia di bitcoin - Le idee che hanno portato a Bitcoin - Turtlecute & Giacomo Zucco",
-  "event": "Il Priorato del Bitcoin",
-  "format": "podcast",
-  "media": "audio",
-  "language": "it",
-  "links": [
-   "https://podcasters.spotify.com/pod/show/turtle-cute5/episodes/La-storia-di-bitcoin---Le-idee-che-hanno-portato-a-Bitcoin---Turtlecute--Giacomo-Zucco-e1p0ilg",
-   "https://podcasts.apple.com/us/podcast/la-storia-di-bitcoin-le-idee-che-hanno-portato-a/id1668567418"
   ],
   "start": null,
   "end": null
@@ -4117,5 +3810,167 @@
   ],
   "start": null,
   "end": null
+ },
+ {
+  "date": "2026-11-16",
+  "title": "Taxed Enough Already / Realpolitik (two parts)",
+  "event": "Atlas21 - 'Quello che i Bitcoiner non dicono'",
+  "format": "podcast",
+  "media": "video",
+  "language": "it",
+  "parts": [
+   {
+    "title": "Part 1: Taxed Enough Already",
+    "date": "2026-11-02",
+    "links": [
+     "https://www.youtube.com/watch?v=lCCaJganEUY",
+     "https://api.riverside.com/hosting-analytics/media/2b396da2bc6dbf38d6a7078a7a6b697451215199482710eb1d51d044c874233f/eyJlcGlzb2RlSWQiOiIwOGE3NWNjNy0wODE4LTRmNWYtODM1Yy0yMmUwYzBlZDE3NzYiLCJwb2RjYXN0SWQiOiIyMThjMmQyZS01ZDZmLTRlZGItYjRmOC1iZmRlZTQyZDJiMzMiLCJhY2NvdW50SWQiOiI2OWRjZTVlZGNjYmVhMWEzNzA0ODBjNDkiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFlOGNhNjYzZDY1NmFhODA2NGU0ZGE0L2ZlZGVyaWNvLXJpdmlzLXN0dWRpby0yMDI2LTExLTJfXzE3LTM3LTQyLm1wMyJ9.mp3",
+     "https://podcasts.apple.com/us/podcast/taxed-enough-already-prima-parte-giacomo-zucco/id1896226766"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "Part 2: Realpolitik",
+    "date": "2026-11-16",
+    "links": [
+     "https://www.youtube.com/watch?v=U6Kb8Mp4rSo",
+     "https://api.riverside.com/hosting-analytics/media/76dcef8ac20efed754d70af6d34892e35c07b18fa7c5b8da839d50d137830dfd/eyJlcGlzb2RlSWQiOiJlODU2NzJiYi05MTFmLTQ3NTgtYjY1MC03ZTZhOTFhZWQ4ODUiLCJwb2RjYXN0SWQiOiIyMThjMmQyZS01ZDZmLTRlZGItYjRmOC1iZmRlZTQyZDJiMzMiLCJhY2NvdW50SWQiOiI2OWRjZTVlZGNjYmVhMWEzNzA0ODBjNDkiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFmYjQ5ZjI3ZmYwYTg5ZDI0ZWMzMWVhL2ZlZGVyaWNvLXJpdmlzLXN0dWRpby0yMDI2LTExLTE2X18xOC0yMi00Mi5tcDMifQ==.mp3"
+    ],
+    "start": "00:17:57",
+    "end": "00:27:54"
+   }
+  ]
+ },
+ {
+  "date": "2026-09-21",
+  "title": "BIP-110 and the UASF (two episodes)",
+  "event": "Bitcoin Infinity Show #194 and #221",
+  "format": "podcast",
+  "media": "video",
+  "language": "en",
+  "parts": [
+   {
+    "title": "#194: Why BIP-110 Will Fail",
+    "date": "2026-03-16",
+    "links": [
+     "https://www.youtube.com/watch?v=hBvlmFgQENw",
+     "https://fountain.fm/episode/5bNY4Ppmrsl04DrQipso",
+     "https://podcasts.apple.com/us/podcast/why-bip-110-will-fail-giacomo-zucco-bitcoin-infinity/id1641040522"
+    ],
+    "start": "00:00:00",
+    "end": "00:02:53"
+   },
+   {
+    "title": "#221: The Truth About the UASF and BIP-110",
+    "date": "2026-09-21",
+    "links": [
+     "https://www.youtube.com/watch?v=jChHCXfjSrE",
+     "https://fountain.fm/episode/leWzWJuNCgGUIOb2o7fD",
+     "https://podcasts.apple.com/us/podcast/the-truth-about-the-uasf-and-bip-110-with/id1641040522"
+    ],
+    "start": null,
+    "end": null
+   }
+  ]
+ },
+ {
+  "date": "2025-09-21",
+  "title": "La storia di Bitcoin, with turtlecute (series)",
+  "event": "Il Priorato del Bitcoin",
+  "format": "podcast",
+  "media": "audio",
+  "language": "it",
+  "parts": [
+   {
+    "title": "Le idee che hanno portato a Bitcoin",
+    "date": "2022-10-09",
+    "links": [
+     "https://podcasters.spotify.com/pod/show/turtle-cute5/episodes/La-storia-di-bitcoin---Le-idee-che-hanno-portato-a-Bitcoin---Turtlecute--Giacomo-Zucco-e1p0ilg",
+     "https://podcasts.apple.com/us/podcast/la-storia-di-bitcoin-le-idee-che-hanno-portato-a/id1668567418"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "Satoshi Nakamoto",
+    "date": "2022-10-16",
+    "links": [
+     "https://podcasters.spotify.com/pod/show/turtle-cute5/episodes/La-storia-di-bitcoin---Satoshi-Nakamoto---Turtlecute--Giacomo-Zucco-e1pb86g",
+     "https://podcasts.apple.com/us/podcast/la-storia-di-bitcoin-satoshi-nakamoto-turtlecute-giacomo/id1668567418"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "Gli anni della pubertà del protocollo",
+    "date": "2022-10-23",
+    "links": [
+     "https://podcasters.spotify.com/pod/show/turtle-cute5/episodes/La-storia-di-bitcoin---Gli-anni-della-pubert-del-protocollo---Turtlecute--Giacomo-zucco-e1pl10r",
+     "https://podcasts.apple.com/us/podcast/la-storia-di-bitcoin-gli-anni-della-pubert%C3%A1-del-protocollo/id1668567418"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "Block size war, parte 1",
+    "date": "2022-10-30",
+    "links": [
+     "https://podcasters.spotify.com/pod/show/turtle-cute5/episodes/La-storia-di-bitcoin---Block-size-war--parte-1---Turtlecute--Giacomo-Zucco-e1pr92v",
+     "https://podcasts.apple.com/us/podcast/la-storia-di-bitcoin-block-size-war-parte-1-turtlecute/id1668567418"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "Block size war, parte 2",
+    "date": "2022-11-06",
+    "links": [
+     "https://podcasters.spotify.com/pod/show/turtle-cute5/episodes/La-storia-di-bitcoin---Block-size-war--parte-2---Turtlecute--Giacomo-Zucco-e1qaopm",
+     "https://podcasts.apple.com/us/podcast/la-storia-di-bitcoin-block-size-war-parte-2-turtlecute/id1668567418"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "L'epoca \"moderna\" del protocollo",
+    "date": "2022-11-13",
+    "links": [
+     "https://podcasters.spotify.com/pod/show/turtle-cute5/episodes/La-storia-di-bitcoin---Lepoca-moderna-del-procollo---Turtlecute--Giacomo-Zucco-e1qmgpa",
+     "https://podcasts.apple.com/us/podcast/la-storia-di-bitcoin-lepoca-moderna-del-procollo-turtlecute/id1668567418"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "Il presente e il futuro del protocollo",
+    "date": "2022-11-20",
+    "links": [
+     "https://podcasters.spotify.com/pod/show/turtle-cute5/episodes/La-storia-di-bitcoin---Il-presente-e-il-futuro-del-protocollo---Turtlecute--Giacomo-Zucco-e1quan2",
+     "https://podcasts.apple.com/us/podcast/la-storia-di-bitcoin-il-presente-e-il-futuro/id1668567418"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "Il 2023",
+    "date": "2023-12-31",
+    "links": [
+     "https://podcasters.spotify.com/pod/show/turtle-cute5/episodes/La-storia-di-Bitcoin---Il-2023---Turtlecute--Giacomo-Zucco-e2drhaa"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "Il 2025: faide interne e istituzionali",
+    "date": "2025-09-21",
+    "links": [
+     "https://podcasters.spotify.com/pod/show/turtle-cute5/episodes/La-Storia-di-Bitcoin---il-2025-Faide-Interne-e-Istutuzionali---Giacomo-Zucco-e-turtlecute-e38gr9e",
+     "https://podcasts.apple.com/us/podcast/la-storia-di-bitcoin-il-2025-faide-interne-e/id1668567418"
+    ],
+    "start": null,
+    "end": null
+   }
+  ]
  }
 ]

@@ -32,7 +32,7 @@ function hostLabel(url) {
   return HOSTS[h] || h;
 }
 
-function links(a) {
+function linksOf(a) {
   let l = a.links ?? a.link ?? a.url ?? a.urls ?? [];
   if (!Array.isArray(l)) l = [l];
   return l
@@ -57,6 +57,10 @@ export default async function () {
     .filter((a) => a && a.date && a.title)
     .map((a) => {
       const ts = a.timestamps || {};
+      // Optional "parts": several recordings shown as one item (a series, a two-part episode).
+      const parts = Array.isArray(a.parts)
+        ? a.parts.map((p) => ({ title: p.title, date: p.date ? new Date(p.date) : null, links: linksOf(p), start: zero(p.start ?? null), end: p.end ?? null }))
+        : null;
       return {
         date: new Date(a.date),
         title: a.title,
@@ -64,7 +68,8 @@ export default async function () {
         format: a.format || null,
         type: media(a.media ?? a.media_type ?? a.mediaType ?? a.type),
         language: lang(a.language ?? a.lang),
-        links: links(a),
+        links: parts ? parts[parts.length - 1].links : linksOf(a),
+        parts,
         start: zero(ts.start ?? a.start ?? null),
         end: ts.end ?? a.end ?? null,
         description: a.context || a.description || null,

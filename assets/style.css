@@ -184,3 +184,10 @@ dialog h2 { margin: 0 0 .5rem; text-transform: none; }
 .video-link img { display: block; width: 100%; height: auto; opacity: .75; }
 .video-link span { position: absolute; left: 1rem; bottom: 1rem; background: var(--bg); color: var(--accent); font-family: var(--mono); font-size: .9rem; padding: .3rem .6rem; border-radius: 3px; }
 .video-link:hover img { opacity: 1; }
+
+/* Multi-part items (series, two-part episodes) */
+.item-parts { margin: .4rem 0 0; padding-left: 1.4rem; font-size: .9rem; }
+.item-parts li { margin: .35rem 0; }
+.item-parts .part-title { color: var(--text); }
+.item-parts time { color: var(--muted); font-size: .8rem; margin-left: .3rem; }
+.item-parts .item-links { margin-top: .15rem; }

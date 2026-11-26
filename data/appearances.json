@@ -3586,5 +3586,44 @@
   ],
   "start": null,
   "end": null
+ },
+ {
+  "date": "2026-05",
+  "title": "Come (NON) creare una Bitcoin City?",
+  "event": "BitCare Forum 2026, Brescia",
+  "format": "talk",
+  "media": "video",
+  "language": "it",
+  "links": [
+   "https://www.youtube.com/watch?v=WbEl-ojZk8M"
+  ],
+  "start": null,
+  "end": null
+ },
+ {
+  "date": "2025-05-10",
+  "title": "Il pragmatismo del movimento Cypherpunk",
+  "event": "BitCare Forum 2025, Brescia",
+  "format": "talk",
+  "media": "video",
+  "language": "it",
+  "links": [
+   "https://atlas21.com/it/bitcoin-protagonista-a-brescia-grande-affluenza-al-bitcare-forum-2025/"
+  ],
+  "start": null,
+  "end": null
+ },
+ {
+  "date": "2025-05-10",
+  "title": "Gran finale: il futuro di Bitcoin (with Guybrush, M. Argentieri, F. Tenga, D. Coen)",
+  "event": "BitCare Forum 2025, Brescia",
+  "format": "panel",
+  "media": "video",
+  "language": "it",
+  "links": [
+   "https://www.youtube.com/watch?v=3wmBhPjCZ3w"
+  ],
+  "start": null,
+  "end": null
  }
 ]

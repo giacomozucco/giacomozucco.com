@@ -353,32 +353,6 @@
   "end": null
  },
  {
-  "date": "2025-06",
-  "title": "Cypherpunks vs. Institutions: Who Owns Bitcoin’s Future? | BTC Prague 2025 Debate",
-  "event": "BTC Prague 2025",
-  "format": "debate",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=z2gi2FPEM-s"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2025-06",
-  "title": "Giacomo Zucco - The Difference in Bitcoin Cultures Across the World - BTC Prague 2025 AmityAge stage",
-  "event": "BTC Prague 2025 - AmityAge stage",
-  "format": "talk",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=0W6uEFpCW-8"
-  ],
-  "start": null,
-  "end": null
- },
- {
   "date": "2025-05-19",
   "title": "Lightning Adoption & the OP_RETURN Debate - With Francis Pouliot and Giacomo Zucco",
   "event": "Bull Bitcoin Podcast",
@@ -442,19 +416,6 @@
   "language": "it",
   "links": [
    "https://www.youtube.com/watch?v=jSFGLqF1UdA"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2025-03-29",
-  "title": "Giacomo Zucco e la geopolitica di Bitcoin 🧡",
-  "event": "Bitcoin Media",
-  "format": "interview",
-  "media": "video",
-  "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=RsHjo4dsDiE"
   ],
   "start": null,
   "end": null
@@ -554,32 +515,6 @@
   "end": null
  },
  {
-  "date": "2024-11-27",
-  "title": "Giacomo Zucco Meets Elysium Lab",
-  "event": "Elysium Lab",
-  "format": "interview",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=eOCoZI-nmVw"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2024-11-22",
-  "title": "Escaping the Fiat Matrix with Paul Tarantino, Tone Vays, Nico Moran, and Giacomo Zucco",
-  "event": "Byte Federal, Inc.",
-  "format": "interview",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=pUGUktGIZE8"
-  ],
-  "start": null,
-  "end": null
- },
- {
   "date": "2024-11",
   "title": "09 News Update - Giaccomo Zucco & Nicolas Burtey - Adopting Bitcoin 2024",
   "event": "Adopting Bitcoin 2024",
@@ -606,19 +541,6 @@
   "end": null
  },
  {
-  "date": "2024-10-15",
-  "title": "Money Sound & Unsound - [The Bitcoin Roundtable #2]",
-  "event": "Plan B Network - The Bitcoin Roundtable #2",
-  "format": "podcast",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=Pq4cty0qNzg"
-  ],
-  "start": null,
-  "end": null
- },
- {
   "date": "2024-10-08",
   "title": "ENTP & INTJ, Love the Official Match w/ Mir Liponi & Giacomo Zucco",
   "event": "Life with Bitcoin",
@@ -633,32 +555,6 @@
   "end": null
  },
  {
-  "date": "2024-10-02",
-  "title": "Money, Violence & War - [The Bitcoin Roundtable #2]",
-  "event": "Plan B Network - The Bitcoin Roundtable #2",
-  "format": "podcast",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=b6lcZ8VTT6A"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2024-10",
-  "title": "Chi è SATOSHI Nakamoto? Giacomo Zucco - Speech PlanB Forum",
-  "event": "Lugano Plan B Forum 2024 (25-26 ott 2024) - ripresa TB Club",
-  "format": "talk",
-  "media": "video",
-  "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=UaWP-I6kq0k"
-  ],
-  "start": null,
-  "end": null
- },
- {
   "date": "2024-10",
   "title": "The Covenants Dilemma | Lugano’s Plan ₿ Forum 2024",
   "event": "Lugano Plan B Forum 2024 (25-26 ott 2024)",
@@ -667,32 +563,6 @@
   "language": "en",
   "links": [
    "https://www.youtube.com/watch?v=8SXVygEtsPo"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2024-10",
-  "title": "Update on the Plan ₿ Network: one year later! | Lugano’s Plan ₿ Forum 2024",
-  "event": "Lugano Plan B Forum 2024 (25-26 ott 2024)",
-  "format": "talk",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=Q97OKMWa7XU"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2024-10",
-  "title": "🇨🇭 Giacomo Zucco: la vera identità di Satoshi Nakamoto | Plan ₿ Forum 🇨🇭",
-  "event": "Lugano Plan B Forum 2024 (25-26 ott 2024) - ripresa Crypto Dome Italia",
-  "format": "talk",
-  "media": "video",
-  "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=ZtlPk4t4_IM"
   ],
   "start": null,
   "end": null
@@ -3967,6 +3837,62 @@
     "links": [
      "https://podcasters.spotify.com/pod/show/turtle-cute5/episodes/La-Storia-di-Bitcoin---il-2025-Faide-Interne-e-Istutuzionali---Giacomo-Zucco-e-turtlecute-e38gr9e",
      "https://podcasts.apple.com/us/podcast/la-storia-di-bitcoin-il-2025-faide-interne-e/id1668567418"
+    ],
+    "start": null,
+    "end": null
+   }
+  ]
+ },
+ {
+  "date": "2024-10-15",
+  "title": "The Bitcoin Roundtable (Plan B Network)",
+  "event": "Plan B Network, The Bitcoin Roundtable #2",
+  "format": "podcast",
+  "media": "video",
+  "language": "en",
+  "parts": [
+   {
+    "title": "Money, Violence & War",
+    "date": "2024-10-02",
+    "links": [
+     "https://www.youtube.com/watch?v=b6lcZ8VTT6A"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "Money Sound & Unsound",
+    "date": "2024-10-15",
+    "links": [
+     "https://www.youtube.com/watch?v=Pq4cty0qNzg"
+    ],
+    "start": null,
+    "end": null
+   }
+  ]
+ },
+ {
+  "date": "2024-10",
+  "title": "Chi è Satoshi Nakamoto? (talk, two recordings)",
+  "event": "Lugano Plan B Forum 2024 (25-26 ott 2024)",
+  "format": "talk",
+  "media": "video",
+  "language": "it",
+  "parts": [
+   {
+    "title": "Recording by TB Club",
+    "date": "2024-10",
+    "links": [
+     "https://www.youtube.com/watch?v=UaWP-I6kq0k"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "Recording by Crypto Dome Italia",
+    "date": "2024-10",
+    "links": [
+     "https://www.youtube.com/watch?v=ZtlPk4t4_IM"
     ],
     "start": null,
     "end": null

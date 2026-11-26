@@ -1237,45 +1237,45 @@
  },
  {
   "date": "2022-07-10",
-  "title": "A thorough critique of Monero with Giacomo Zucco and Seth for Privacy (Part 1 of 3) EPI #215",
+  "title": "A thorough critique of Monero, with Seth for Privacy (3 parts)",
   "event": "Monero Talk EPI #215-217",
   "format": "podcast",
   "media": "video",
   "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=P1PRKKlI-Jo",
-   "https://www.monerotalk.live/a-thorough-critique-of-monero-with-giacomo-zucco-and-seth-for-privacy-part-3-of-3",
-   "https://podcasts.apple.com/us/podcast/a-thorough-critique-of-monero-with-giacomo-zucco/id1445930212",
-   "https://podcasts.apple.com/us/podcast/a-thorough-critique-of-monero-with-giacomo-zucco/id1445930212"
-  ],
   "start": "00:02:03",
-  "end": "00:10:12"
- },
- {
-  "date": "2022-06-10",
-  "title": "CONFRONTO ACCESO MICHELE BOLDRIN-GIACOMO ZUCCO-MARCO AMADORI su BITCOIN",
-  "event": "La Miniera",
-  "format": "debate",
-  "media": "video",
-  "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=Cr9Yugi2mvk"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2022-05-20",
-  "title": "EP #22 Bretton Woods of Bitcoin & Adopting Bitcoin 2022",
-  "event": "Adopting Bitcoin podcast EP #22",
-  "format": "podcast",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=y0WyOmOeozY"
-  ],
-  "start": null,
-  "end": null
+  "end": "00:10:12",
+  "parts": [
+   {
+    "title": "Part 1 (EPI #215)",
+    "date": "2022-07-10",
+    "links": [
+     "https://www.youtube.com/watch?v=P1PRKKlI-Jo",
+     "https://www.monerotalk.live/a-thorough-critique-of-monero-with-giacomo-zucco-and-seth-for-privacy-part-3-of-3",
+     "https://podcasts.apple.com/us/podcast/a-thorough-critique-of-monero-with-giacomo-zucco/id1445930212",
+     "https://podcasts.apple.com/us/podcast/a-thorough-critique-of-monero-with-giacomo-zucco/id1445930212"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "Part 2 (EPI #216)",
+    "date": null,
+    "links": [
+     "https://www.youtube.com/watch?v=yzLFi6A81sk"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "Part 3 (EPI #217)",
+    "date": null,
+    "links": [
+     "https://www.youtube.com/watch?v=0DvtBPV9Dm0"
+    ],
+    "start": null,
+    "end": null
+   }
+  ]
  },
  {
   "date": "2022-04-14",
@@ -1301,19 +1301,6 @@
    "https://www.youtube.com/watch?v=RY3b2PGO9NU",
    "https://podcasters.spotify.com/pod/show/stephan-livera/episodes/SLP360-Giacomo-Zucco-Bitcoin---Can-Bitcoin-be-both-Hard-Money--Dark-Money-e1g6qhl",
    "https://podcasts.apple.com/us/podcast/slp360-giacomo-zucco-bitcoin-can-bitcoin-be-both-hard/id1415720320"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2022-03",
-  "title": "Bitcoin Cultures - Unconfiscatale 2022",
-  "event": "Unconfiscatable 2022",
-  "format": "talk",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=GgFQgfssHBo"
   ],
   "start": null,
   "end": null
@@ -3622,6 +3609,32 @@
   "language": "it",
   "links": [
    "https://www.youtube.com/watch?v=3wmBhPjCZ3w"
+  ],
+  "start": null,
+  "end": null
+ },
+ {
+  "date": "2019-08-14",
+  "title": "Panel: Bitcoin from a financial market and investment perspective",
+  "event": "Value of Bitcoin conference",
+  "format": "panel",
+  "media": "video",
+  "language": "en",
+  "links": [
+   "https://www.youtube.com/watch?v=DY_lb-K1Jrs"
+  ],
+  "start": null,
+  "end": null
+ },
+ {
+  "date": "2023-12-12",
+  "title": "Is this Censorship? On Ordinals, OFAC, OCEAN mining pool",
+  "event": "Unconfiscatable 2023",
+  "format": "talk",
+  "media": "video",
+  "language": "en",
+  "links": [
+   "https://www.youtube.com/watch?v=5kOkD6MQHF8"
   ],
   "start": null,
   "end": null

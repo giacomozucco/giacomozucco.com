@@ -367,19 +367,6 @@
   "end": null
  },
  {
-  "date": "2025-05-12",
-  "title": "Tuscany Lightning Summit 2025 | SLP658",
-  "event": "Stephan Livera Podcast",
-  "format": "podcast",
-  "media": "audio",
-  "language": "en",
-  "links": [
-   "https://podcasters.spotify.com/pod/show/stephan-livera/episodes/Tuscany-Lightning-Summit-2025--SLP658-e32ncoc"
-  ],
-  "start": "00:45:21",
-  "end": "01:07:21"
- },
- {
   "date": "2025-04-10",
   "title": "L'INDIVIDUO SOVRANO HA IL SUO \"PLAN B\": Intervista con GIACOMO ZUCCO",
   "event": "Leonardofaccoeditore",
@@ -508,19 +495,6 @@
   "language": "en",
   "links": [
    "https://www.youtube.com/watch?v=Mc0ivf7OXbI"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2024-10-30",
-  "title": "Giacomo Zucco e Bitcoin | Una RIVOLUZIONE Mondiale 🌍",
-  "event": "Bitcoin Media",
-  "format": "interview",
-  "media": "video",
-  "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=Y46tkltTsMU"
   ],
   "start": null,
   "end": null
@@ -695,19 +669,6 @@
   "links": [
    "https://podcasters.spotify.com/pod/show/marco-costanza5/episodes/Aloha-Finance-Interview-3---Giacomo-Zucco-e2f62u6",
    "https://podcasts.apple.com/us/podcast/aloha-finance-interview-3-giacomo-zucco/id1592812775"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2024-02-16",
-  "title": "Chat_092 - Second Coming of the P2P Web",
-  "event": "Bitcoin Audible",
-  "format": "podcast",
-  "media": "audio",
-  "language": "en",
-  "links": [
-   "https://bitcoin-audible.castos.com/episodes/chat-092-second-coming-of-the-p2p-web"
   ],
   "start": null,
   "end": null
@@ -1039,19 +1000,6 @@
   "end": "00:06:08"
  },
  {
-  "date": "2023-06-29",
-  "title": "Chi è DAVVERO Giacomo Zucco #5 w Giacomo Zucco",
-  "event": "Bitcoin Media",
-  "format": "podcast",
-  "media": "video",
-  "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=0XxS7FrJvIo"
-  ],
-  "start": "00:00:30",
-  "end": "00:02:30"
- },
- {
   "date": "2023-06-11",
   "title": "I problemi di una società nel Bitcoin Standard - Giacomo Zucco",
   "event": "Marco Costanza",
@@ -1130,19 +1078,6 @@
   "end": null
  },
  {
-  "date": "2023-05-02",
-  "title": "[Bitcoin Rabbit Hole #9] Bitcoin: TAPROOT: Giacomo Zucco + Massimo Musumeci",
-  "event": "Massimo (Max) Musumeci",
-  "format": "podcast",
-  "media": "video",
-  "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=Tqn-9BDS8Cs"
-  ],
-  "start": null,
-  "end": null
- },
- {
   "date": "2023-04-05",
   "title": "\"Bitcoin Cultures\" presentation for Strike",
   "event": "Strike (presentazione interna), canale Giacomo Zucco",
@@ -1169,33 +1104,6 @@
   "end": null
  },
  {
-  "date": "2023-03-22",
-  "title": "109 Giacomo Zucco - Repulsive 13% Dying Breed",
-  "event": "Dabbling Path",
-  "format": "podcast",
-  "media": "audio",
-  "language": "en",
-  "links": [
-   "https://podcasters.spotify.com/pod/show/meyrick/episodes/109-Giacomo-Zucco---Repulsive-13-Dying-Breed-e3a27qk",
-   "https://podcasts.apple.com/us/podcast/109-giacomo-zucco-repulsive-13-dying-breed/id1849637601"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2023-03-08",
-  "title": "Bcaucus ep. 1 - \"Bitcoin: un futuro (in)certo\" con Giacomo Zucco e Guido Pascotto",
-  "event": "Satoshi Design",
-  "format": "podcast",
-  "media": "video",
-  "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=Vq-wtJ-0ZIM"
-  ],
-  "start": null,
-  "end": null
- },
- {
   "date": "2023-02-25",
   "title": "Economia e società — Zucco",
   "event": "BitPolito - corso",
@@ -1204,58 +1112,6 @@
   "language": "it",
   "links": [
    "https://www.youtube.com/watch?v=eZmjlNSgB5w"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2023-02-14",
-  "title": "[Bitcoin Rabbit Hole #7] Bitcoin: Scripts e P2SH: Giacomo Zucco + Massimo Musumeci",
-  "event": "Massimo (Max) Musumeci",
-  "format": "podcast",
-  "media": "video",
-  "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=x8eeLY-TEkU"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2023-01-19",
-  "title": "[Bitcoin Rabbit Hole #6] Bitcoin: Dal Paper di Satoshi a P2PKH: Giacomo Zucco + Massimo Musumeci",
-  "event": "Massimo (Max) Musumeci",
-  "format": "podcast",
-  "media": "video",
-  "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=N2WOKAd0Gk4"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2022-12-20",
-  "title": "Bitcoin Detox 21: Sviluppi futuri del protocollo Bitcoin - Parte 3 - Giacomo Zucco",
-  "event": "Bitcoin Detox (Gambaru Tech), lezione 21",
-  "format": "talk",
-  "media": "video",
-  "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=7og_WUKWOmc"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2022-12-09",
-  "title": "[Bitcoin Rabbit Hole #5] Aspetti di Privacy su Lightning Network: Giacomo Zucco + Massimo Musumeci",
-  "event": "Massimo (Max) Musumeci",
-  "format": "podcast",
-  "media": "video",
-  "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=v81Ew8TxVY4"
   ],
   "start": null,
   "end": null
@@ -1287,97 +1143,6 @@
   "end": null
  },
  {
-  "date": "2022-11-13",
-  "title": "[Bitcoin Rabbit Hole #4] Analisi di Chiusure Canali Lightining: Giacomo Zucco + Massimo Musumeci",
-  "event": "Massimo (Max) Musumeci",
-  "format": "podcast",
-  "media": "video",
-  "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=RzsDnIKIBEA"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2022-11-08",
-  "title": "La Blockchain è inutile - Intervista Giacomo Zucco",
-  "event": "Marco Costanza",
-  "format": "interview",
-  "media": "video",
-  "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=I7a9irHqDjw"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2022-10-27",
-  "title": "Giacomo Zucco: The truth about KYC and freedom of speach",
-  "event": "StartwithBitcoin",
-  "format": "interview",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=BxKE5wcgKqE"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2022-10-18",
-  "title": "Bitcoin Detox 13: Shitcoin Apologism - Giacomo Zucco",
-  "event": "Bitcoin Detox (Gambaru Tech), lezione 13",
-  "format": "talk",
-  "media": "video",
-  "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=iY2T3_RIgPM"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2022-10-13",
-  "title": "The Multichain Debate w/ Sergej Kotliar, Giacomo Zucco",
-  "event": "Bitcoin Amsterdam 2022",
-  "format": "debate",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=UWZnc5uWD-c"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2022-10-04",
-  "title": "Bitcoin Detox 11: Il riciclaggio di denaro è bello - Giacomo Zucco",
-  "event": "Bitcoin Detox (Gambaru Tech), lezione 11",
-  "format": "talk",
-  "media": "video",
-  "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=8FXYQTMQfhE"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2022-10",
-  "title": "\"Bitcoin porterà a conseguenze politiche\" Giacomo Zucco, Lugano PlanB Forum",
-  "event": "Lugano Plan B Forum 2022 (28-29 ott 2022) - Wildcarder",
-  "format": "interview",
-  "media": "video",
-  "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=XKMUmDlEWdc"
-  ],
-  "start": null,
-  "end": null
- },
- {
   "date": "2022-10",
   "title": "Bitcoin 101 (in Italiano) | Plan ₿ Forum 2022 | Lugano",
   "event": "Lugano Plan B Forum 2022 (28-29 ott 2022)",
@@ -1386,19 +1151,6 @@
   "language": "it",
   "links": [
    "https://www.youtube.com/watch?v=N_9LarNCtzE"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2022-10",
-  "title": "Impact of Regulation on Open-Source Software | Plan ₿ Forum 2022 | Lugano",
-  "event": "Lugano Plan B Forum 2022 (28-29 ott 2022)",
-  "format": "panel",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=IrA8RLF0qg8"
   ],
   "start": null,
   "end": null
@@ -1425,45 +1177,6 @@
   "language": "en",
   "links": [
    "https://www.youtube.com/watch?v=oQ7GgCcUW_M"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2022-09-30",
-  "title": "Baltic Honeybadger 2022 - Intervista a Giacomo Zucco - Bitcoin Train",
-  "event": "Baltic Honeybadger 2022, Riga (3-4 set 2022) - Bitcoin Train",
-  "format": "interview",
-  "media": "video",
-  "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=ZBPFwhP-uWY"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2022-09-27",
-  "title": "[Bitcoin Rabbit Hole #1] Aperture e chiusure canali LN Giacomo Zucco + Massimo Musumeci",
-  "event": "Massimo (Max) Musumeci",
-  "format": "podcast",
-  "media": "video",
-  "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=TR8hUmv0jyc"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2022-09-20",
-  "title": "Bitcoin Detox 9 - RGB: la tv a colori per Bitcoin - Giacomo Zucco",
-  "event": "Bitcoin Detox (Gambaru Tech), lezione 9",
-  "format": "talk",
-  "media": "video",
-  "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=6JeULalSi3Y"
   ],
   "start": null,
   "end": null
@@ -1506,19 +1219,6 @@
   ],
   "start": "00:09:50",
   "end": "00:35:20"
- },
- {
-  "date": "2022-07-15",
-  "title": "Ha ragione Putin o Zelensky? - il punto di vista libertario (con Giacomo Zucco)",
-  "event": "Movimento Libertario",
-  "format": "debate",
-  "media": "video",
-  "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=mRrEnRDeWdk"
-  ],
-  "start": null,
-  "end": null
  },
  {
   "date": "2022-07-13",
@@ -3735,5 +3435,156 @@
     "end": null
    }
   ]
+ },
+ {
+  "date": "2024-10-30",
+  "title": "Interviews on Bitcoin Media",
+  "event": "Bitcoin Media",
+  "format": "interview",
+  "media": "video",
+  "language": "it",
+  "parts": [
+   {
+    "title": "Chi è DAVVERO Giacomo Zucco #5",
+    "date": "2023-06-29",
+    "links": [
+     "https://www.youtube.com/watch?v=0XxS7FrJvIo"
+    ],
+    "start": "00:00:30",
+    "end": "00:02:30"
+   },
+   {
+    "title": "Giacomo Zucco e Bitcoin | Una RIVOLUZIONE Mondiale 🌍",
+    "date": "2024-10-30",
+    "links": [
+     "https://www.youtube.com/watch?v=Y46tkltTsMU"
+    ],
+    "start": null,
+    "end": null
+   }
+  ]
+ },
+ {
+  "date": "2023-05-02",
+  "title": "Bitcoin Rabbit Hole, with Massimo Musumeci (series)",
+  "event": "Massimo (Max) Musumeci",
+  "format": "podcast",
+  "media": "video",
+  "language": "it",
+  "parts": [
+   {
+    "title": "#1: Aperture e chiusure canali LN",
+    "date": "2022-09-27",
+    "links": [
+     "https://www.youtube.com/watch?v=TR8hUmv0jyc"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "#4: Analisi di chiusure canali Lightning",
+    "date": "2022-11-13",
+    "links": [
+     "https://www.youtube.com/watch?v=RzsDnIKIBEA"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "#5: Aspetti di Privacy su Lightning Network",
+    "date": "2022-12-09",
+    "links": [
+     "https://www.youtube.com/watch?v=v81Ew8TxVY4"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "#6: Dal Paper di Satoshi a P2PKH",
+    "date": "2023-01-19",
+    "links": [
+     "https://www.youtube.com/watch?v=N2WOKAd0Gk4"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "#7: Scripts e P2SH",
+    "date": "2023-02-14",
+    "links": [
+     "https://www.youtube.com/watch?v=x8eeLY-TEkU"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "#9: TAPROOT",
+    "date": "2023-05-02",
+    "links": [
+     "https://www.youtube.com/watch?v=Tqn-9BDS8Cs"
+    ],
+    "start": null,
+    "end": null
+   }
+  ]
+ },
+ {
+  "date": "2022-12-20",
+  "title": "Bitcoin Detox, lessons by Giacomo Zucco (series)",
+  "event": "Bitcoin Detox (Gambaru Tech)",
+  "format": "lecture",
+  "media": "video",
+  "language": "it",
+  "parts": [
+   {
+    "title": "Lesson 9: RGB: la tv a colori per Bitcoin",
+    "date": "2022-09-20",
+    "links": [
+     "https://www.youtube.com/watch?v=6JeULalSi3Y"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "Lesson 11: Il riciclaggio di denaro è bello",
+    "date": "2022-10-04",
+    "links": [
+     "https://www.youtube.com/watch?v=8FXYQTMQfhE"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "Lesson 13: Shitcoin Apologism",
+    "date": "2022-10-18",
+    "links": [
+     "https://www.youtube.com/watch?v=iY2T3_RIgPM"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "Lesson 21: Sviluppi futuri del protocollo Bitcoin, parte 3",
+    "date": "2022-12-20",
+    "links": [
+     "https://www.youtube.com/watch?v=7og_WUKWOmc"
+    ],
+    "start": null,
+    "end": null
+   }
+  ]
+ },
+ {
+  "date": "2026-11-06",
+  "title": "I Called Bukele a Dictator. Giacomo Zucco Responds.",
+  "event": "Joe Nakamoto",
+  "format": "interview",
+  "media": "video",
+  "language": "en",
+  "links": [
+   "https://www.youtube.com/watch?v=Vy6WpAH0RaA"
+  ],
+  "start": null,
+  "end": null
  }
 ]

@@ -93,4 +93,4 @@ The file can be a plain array or `{ "appearances": [...] }`. The loader is
 ## License
 
 No copyright: I don't believe in intellectual property. Copy, remix and share freely.
-The repository also carries an MIT `LICENSE` file.
+If you really need a license, everything here (code and content) is released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/), see `LICENSE`.

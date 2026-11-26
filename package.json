@@ -2,7 +2,7 @@
   "name": "giacomozucco.com",
   "private": true,
   "description": "Personal website of Giacomo Zucco",
-  "license": "MIT",
+  "license": "CC0-1.0",
   "type": "module",
   "repository": {
     "type": "git",

@@ -13,7 +13,6 @@
     { "name": "Bull Bitcoin Switzerland", "url": "https://www.bullbitcoin.com/", "todo": "No Swiss-specific site found; links to the global Bull Bitcoin site" },
     { "name": "Breez", "url": "https://breez.technology/" },
     { "name": "Ark Labs", "url": "https://arklabs.xyz/" },
-    { "name": "Portal", "url": "https://twenty-two.xyz/", "todo": "Official TwentyTwo Devices site returned 502 on 2026-11-27; recheck" },
     { "name": "LTNG Ventures", "url": "https://ltng.ventures/" },
     { "name": "Enclavia", "url": "https://enclavia.io/" },
     { "name": "Satsback", "url": "https://satsback.com/" },

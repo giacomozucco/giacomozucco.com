@@ -15,10 +15,17 @@ title: Giacomo Zucco
   <p>I am involved as a board member, local director, investor or advisor in the following entities: {% set lastWord = "and" %}{% set govName = "the Government of El Salvador" %}{% include "orgs.njk" %}.</p>
 </section>
 
-<section aria-labelledby="latest-title">
-  <h2 id="latest-title"><span class="dim">#</span> latest</h2>
+<section aria-labelledby="featured-title">
+  <h2 id="featured-title"><span class="dim">#</span> featured</h2>
+  {% if featured.announcement %}
+  <div class="announcement">
+    <h3 class="item-title">{% if featured.announcement.url %}<a href="{{ featured.announcement.url }}">{{ featured.announcement.title }}</a>{% else %}{{ featured.announcement.title }}{% endif %}</h3>
+    {% if featured.announcement.text %}<p class="item-desc">{{ featured.announcement.text }}</p>{% endif %}
+  </div>
+  {% else %}
   <ul class="items">
-    {% for item in collections.everything | limit(6) %}{% include "item.njk" %}{% endfor %}
+    {% set item = collections.everything | featuredItem(featured) %}{% include "item.njk" %}
   </ul>
+  {% endif %}
   <p><a class="more" href="/content/">browse everything: articles, talks, interviews, podcasts →</a></p>
 </section>

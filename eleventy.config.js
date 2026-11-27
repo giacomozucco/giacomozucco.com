@@ -89,6 +89,17 @@ export default function (eleventyConfig) {
   );
   eleventyConfig.addFilter("limit", (arr, n) => arr.slice(0, n));
 
+  // The single featured item on the home page (see _data/featured.json).
+  // A pin lapses as soon as newer content is published; otherwise the latest item wins.
+  eleventyConfig.addFilter("featuredItem", (items, featured) => {
+    const latest = items[0];
+    if (!featured || !featured.pin) return latest;
+    const pinned = items.find((i) => i.title === featured.pin);
+    if (!pinned) throw new Error(`featured.json: no content titled "${featured.pin}"`);
+    const pinnedOn = featured.pinnedOn ? new Date(featured.pinnedOn) : null;
+    return pinnedOn && latest.date > pinnedOn ? latest : pinned;
+  });
+
   // QR code rendered at build time as inline SVG, so the page needs no QR library.
   eleventyConfig.addAsyncShortcode("qr", async (text) =>
     QRCode.toString(text, {

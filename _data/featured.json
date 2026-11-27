@@ -1,0 +1,6 @@
+{
+  "_comment": "The home page shows ONE featured item. Priority: announcement (title, text, optional url: a course, a conference...) > pin (exact title of an article or appearance; it lapses automatically once something dated after pinnedOn is published) > the latest published content.",
+  "announcement": null,
+  "pin": "I Called Bukele a Dictator. Giacomo Zucco Responds.",
+  "pinnedOn": "2026-11-27"
+}

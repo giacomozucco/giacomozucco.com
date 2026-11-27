@@ -1620,59 +1620,34 @@
   "end": null
  },
  {
-  "date": "2020-04-10",
-  "title": "KDC #79: Giacomo Zucco & Knut Svanholm - Buy Your Freedom with Bitcoin.",
-  "event": "The Davani Show",
-  "format": "podcast",
-  "media": "audio",
-  "language": "en",
-  "links": [
-   "https://podcasters.spotify.com/pod/show/keyvandavani/episodes/KDC-79-Giacomo-Zucco--Knut-Svanholm---Buy-Your-Freedom-with-Bitcoin-ecksr3",
-   "https://podcasts.apple.com/us/podcast/kdc-79-giacomo-zucco-knut-svanholm-buy-your-freedom/id1461487774"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2020-04-08",
-  "title": "Pandemic & Bitcoin With Giacomo Zucco",
-  "event": "Ugly Old Goat",
-  "format": "livestream",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=ujqKNLWthf4"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2020-03-25",
-  "title": "#143: JW Weatherman & Giacomo Zucco",
-  "event": "TFTC",
-  "format": "podcast",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=Owza8a8gtww",
-   "https://fountain.fm/episode/oYyHz1mKCXTgz0EvNf65",
-   "https://podcasts.apple.com/us/podcast/143-jw-weatherman-giacomo-zucco/id1292381204"
-  ],
-  "start": null,
-  "end": null
- },
- {
   "date": "2020-03-23",
-  "title": "Bitcoin Brief w/ Giacomo Zucco - BTC Privacy & Italian Banks",
+  "title": "Bitcoin Brief with Tone Vays (two episodes)",
   "event": "Tone Vays - Bitcoin Brief",
   "format": "livestream",
   "media": "video",
   "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=FnpOeXhsIxA"
-  ],
   "start": null,
-  "end": null
+  "end": null,
+  "parts": [
+   {
+    "title": "Happy 11th B-day $BTC!",
+    "date": "2020-01-03",
+    "links": [
+     "https://www.youtube.com/watch?v=hxqfIk3vKcQ"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "BTC Privacy & Italian Banks",
+    "date": "2020-03-23",
+    "links": [
+     "https://www.youtube.com/watch?v=FnpOeXhsIxA"
+    ],
+    "start": null,
+    "end": null
+   }
+  ]
  },
  {
   "date": "2020-03-20",
@@ -1684,20 +1659,6 @@
   "links": [
    "https://swansignalpodcast.com/episodes/bitcoin-and-the-global-pandemic-episode-2-pEZT6OMl",
    "https://podcasts.apple.com/us/podcast/parker-lewis-and-giacomo-zucco-e2/id1503581478"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2020-03-19",
-  "title": "Giacomo Zucco and Parker Lewis on Swan Signal Live",
-  "event": "Citizen Bitcoin",
-  "format": "podcast",
-  "media": "audio",
-  "language": "en",
-  "links": [
-   "https://citizenbitcoin.world/episodes/giacomo-zucco-and-parker-lewis-on-swan-signal-live/",
-   "https://podcasts.apple.com/us/podcast/giacomo-zucco-and-parker-lewis-on-swan-signal-live/id1350483937"
   ],
   "start": null,
   "end": null
@@ -1732,21 +1693,6 @@
   "end": null
  },
  {
-  "date": "2020-03-10",
-  "title": "TotalBitcoin: Limitless Rabbit Hole, March 10th, 2020 -Giacomo Zucco on Covid19-Virus & Bitcoin.",
-  "event": "DAVANI",
-  "format": "interview",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=XDDO-YNe0q4",
-   "https://podcasters.spotify.com/pod/show/keyvandavani/episodes/KDC--Limitless-Rabbit-Hole-with-Giacomo-Zucco-on-Covid19-Virus--Bitcoin-ebdmi7",
-   "https://podcasts.apple.com/us/podcast/kdc-limitless-rabbit-hole-with-giacomo-zucco-on/id1461487774"
-  ],
-  "start": null,
-  "end": null
- },
- {
   "date": "2020-02-21",
   "title": "Bcademy Meetup: Giacomo Zucco",
   "event": "Bcademy Meetup",
@@ -1755,19 +1701,6 @@
   "language": "it",
   "links": [
    "https://www.youtube.com/watch?v=hz69LjdgWL4"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2020-02-14",
-  "title": "Crypto Focus con Federico Izzi e Giacomo Zucco  _ 11 Febbraio 2020",
-  "event": "EIDOO",
-  "format": "interview",
-  "media": "video",
-  "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=WFkdO6U2Yr0"
   ],
   "start": null,
   "end": null
@@ -1808,19 +1741,6 @@
   "language": "en",
   "links": [
    "https://www.youtube.com/watch?v=ZtgeK-TC0nk"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2020-01-03",
-  "title": "Bitcoin Brief w/ Giacomo Zucco - Happy 11th B-day $BTC!",
-  "event": "Tone Vays - Bitcoin Brief",
-  "format": "livestream",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=hxqfIk3vKcQ"
   ],
   "start": null,
   "end": null
@@ -1875,21 +1795,7 @@
    "https://www.youtube.com/watch?v=RY1KoQXM-R0"
   ],
   "start": "00:01:27",
-  "end": "00:02:57"
- },
- {
-  "date": "2019-11-06",
-  "title": "Proof of Work - An interview with Giacomo Zucco (Bitcoin Toximalist)",
-  "event": "The World Crypto Network Podcast",
-  "format": "podcast",
-  "media": "audio",
-  "language": "en",
-  "links": [
-   "https://www.spreaker.com/episode/proof-of-work-an-interview-with-giacomo-zucco-bitcoin-toximalist--19893491",
-   "https://podcasts.apple.com/us/podcast/proof-of-work-an-interview-with-giacomo/id825708806"
-  ],
-  "start": null,
-  "end": null
+  "end": "00:34:54"
  },
  {
   "date": "2019-11-05",
@@ -1916,34 +1822,6 @@
   ],
   "start": null,
   "end": null
- },
- {
-  "date": "2019-10-25",
-  "title": "[Audio Sucks] RGB/Spectrum/Storm (L3) with Giacomo Zucco -  LNJ07",
-  "event": "Lightning Junkies",
-  "format": "interview",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=QMPZGgvaXvE",
-   "https://podcasters.spotify.com/pod/show/lightning-junkies/episodes/Giacomo-Zucco-talking-about-RGBSpectrumStorm-L3---LNJ07-e7t1fp",
-   "https://podcasts.apple.com/us/podcast/giacomo-zucco-talking-about-rgb-spectrum-storm-l3-lnj07/id1477726305"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2019-10-12",
-  "title": "LIVE from Transylvania w/ Adam Back, Giacomo Zucco & More",
-  "event": "Tone Vays - live dalla Transilvania (TCConf 2019)",
-  "format": "livestream",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=1XWtLZZAAuI"
-  ],
-  "start": "00:30:01",
-  "end": "00:34:07"
  },
  {
   "date": "2019-10-03",
@@ -1988,20 +1866,82 @@
  },
  {
   "date": "2019-09-17",
-  "title": "When You Stay in Bitcoin Too Long, You Have a High Probability to Become Mad — Giacomo Zucco / Pt.1",
+  "title": "Interview with ForkLog at Baltic Honeybadger 2019 (7 parts)",
   "event": "Baltic Honeybadger 2019, Riga (14-15 Sep 2019) - ForkLog LIVE (part 1 of 6)",
   "format": "interview",
   "media": "video",
   "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=emb_CUesdv0"
-  ],
   "start": null,
-  "end": null
+  "end": null,
+  "parts": [
+   {
+    "title": "Pt.1: When You Stay in Bitcoin Too Long, You Have a High Probability to Become Mad",
+    "date": null,
+    "links": [
+     "https://www.youtube.com/watch?v=emb_CUesdv0"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "Pt.2: ELI5, How to Understand Bitcoin",
+    "date": null,
+    "links": [
+     "https://www.youtube.com/watch?v=OHmJrV2NR9g"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "Pt.3: The Future of Bitcoin, Altcoins and Banking System",
+    "date": null,
+    "links": [
+     "https://www.youtube.com/watch?v=UJiV_A0ytJU"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "Pt.4: The War of Developers to Control Bitcoin",
+    "date": null,
+    "links": [
+     "https://www.youtube.com/watch?v=GmcKQjNoTbE"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "Pt.5: Toxic Environment of Bitcoin Developers and Self Identification",
+    "date": null,
+    "links": [
+     "https://www.youtube.com/watch?v=uXUDYxghQKA"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "Pt.6: Who Are the True Bitcoin-Maximalists",
+    "date": null,
+    "links": [
+     "https://www.youtube.com/watch?v=rmauhSfDONI"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "Pt.7: Bitcoin's Supervillains and Superheroes",
+    "date": null,
+    "links": [
+     "https://www.youtube.com/watch?v=mrGFez-X0FU"
+    ],
+    "start": null,
+    "end": null
+   }
+  ]
  },
  {
   "date": "2019-09-15",
-  "title": "Baltic Honeybadger 2019 - Live broadcast for day 2",
+  "title": "Opening of day 2, Baltic Honeybadger 2019",
   "event": "Baltic Honeybadger 2019, Riga (14-15 Sep 2019) - day 2 (full livestream)",
   "format": "panel",
   "media": "video",
@@ -2014,7 +1954,7 @@
  },
  {
   "date": "2019-09-14",
-  "title": "Shitcoin Apologism Steelmanned & Bitcoin Scaling Panel with Adam Back at Baltic Honeybadger 2019",
+  "title": "Shitcoin Apologism Steelmanned",
   "event": "Baltic Honeybadger 2019, Riga (14-15 Sep 2019)",
   "format": "talk",
   "media": "video",
@@ -2022,21 +1962,8 @@
   "links": [
    "https://www.youtube.com/watch?v=qlU_6USlQEU"
   ],
-  "start": "00:00",
-  "end": "15:31"
- },
- {
-  "date": "2019-08-01",
-  "title": "Giacomo Zucco Explains RGB Tokens on Bitcoin",
-  "event": "Bitcoin Magazine",
-  "format": "interview",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=z8zJ1ATHulg"
-  ],
-  "start": null,
-  "end": null
+  "start": "00:00:00",
+  "end": "00:15:31"
  },
  {
   "date": "2019-07-18",
@@ -2105,20 +2032,6 @@
   "end": null
  },
  {
-  "date": "2019-07-04",
-  "title": "S2 E8: Giacomo Zucco on Bitcoin-only events, The B & Neutrino",
-  "event": "Bitcoin Takeover Podcast",
-  "format": "podcast",
-  "media": "audio",
-  "language": "en",
-  "links": [
-   "https://bitcoin-takeover.com/audio/?name=2019-07-04_s2_e8_giacomo_zucco_on_bitcoin_only_events_.mp3",
-   "https://podcasts.apple.com/us/podcast/s2-e8-giacomo-zucco-on-bitcoin-only-events-the-b-neutrino/id1451766883"
-  ],
-  "start": null,
-  "end": null
- },
- {
   "date": "2019-06-07",
   "title": "Giacomo Zucco on Why Brexit Is Good for the UK (and Bitcoin)",
   "event": "The Peter McCormack Show",
@@ -2149,16 +2062,33 @@
  },
  {
   "date": "2019-05-06",
-  "title": "Closing Remarks by Tone Vays, Giacomo Zucco & Adam Back -  Understanding Bitcoin -  Day 2",
-  "event": "Understanding Bitcoin Malta 2019 - Day 2",
+  "title": "Understanding Bitcoin Malta 2019: introduction and closing remarks, with Tone Vays and Adam Back",
+  "event": "Understanding Bitcoin Malta 2019",
   "format": "talk",
   "media": "video",
   "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=Nrt8sYvVrFg"
-  ],
   "start": null,
-  "end": null
+  "end": null,
+  "parts": [
+   {
+    "title": "Introduction (day 1)",
+    "date": "2019-04-21",
+    "links": [
+     "https://www.youtube.com/watch?v=l6zVtfvzmH8"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "Closing remarks (day 2)",
+    "date": "2019-05-06",
+    "links": [
+     "https://www.youtube.com/watch?v=Nrt8sYvVrFg"
+    ],
+    "start": null,
+    "end": null
+   }
+  ]
  },
  {
   "date": "2019-05-06",
@@ -2174,19 +2104,6 @@
   "end": null
  },
  {
-  "date": "2019-04-21",
-  "title": "Introduction - Tone Vays, Adam Back & Giacomo Zucco at Understanding Bitcoin Malta - Day 1",
-  "event": "Understanding Bitcoin Malta 2019 - Day 1",
-  "format": "talk",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=l6zVtfvzmH8"
-  ],
-  "start": null,
-  "end": null
- },
- {
   "date": "2019-04-08",
   "title": "Giacomo Zucco",
   "event": "The Tatiana Show!",
@@ -2195,33 +2112,6 @@
   "language": "en",
   "links": [
    "https://podcasts.apple.com/us/podcast/giacomo-zucco/id1340973356"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2019-04-08",
-  "title": "Trading Bitcoin - Understanding Bitcoin Recap w/ Giacomo Zucco",
-  "event": "Tone Vays - Trading Bitcoin",
-  "format": "livestream",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=O6OCrtcLvUk"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2019-01-17",
-  "title": "Giacomo Zucco, Director at BHB Network and CoFounder of TheB",
-  "event": "Advance Tech Podcast",
-  "format": "podcast",
-  "media": "audio",
-  "language": "en",
-  "links": [
-   "https://advancetechmedia.org/episode-10-giacomo-zucco/",
-   "https://podcasts.apple.com/us/podcast/giacomo-zucco-director-at-bhb-network-and-cofounder-of-theb/id1278222771"
   ],
   "start": null,
   "end": null
@@ -2242,19 +2132,6 @@
   "end": null
  },
  {
-  "date": "2019-01-02",
-  "title": "LABITCONF 2018 - Giacomo Zucco - Bitcoin terminology",
-  "event": "LaBitConf 2018",
-  "format": "talk",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=LoSppjuY5qQ"
-  ],
-  "start": null,
-  "end": null
- },
- {
   "date": "2019-01",
   "title": "Why Bitcoin Not Blockchain - Jimmy Song, Giacomo Zucco, Johnny Dilley & Tone Vays",
   "event": "Unconfiscatable 2019",
@@ -2268,19 +2145,6 @@
   "end": null
  },
  {
-  "date": "2018-11-09",
-  "title": "BitKnow Interview - Giacomo Zucco",
-  "event": "Bit Know",
-  "format": "interview",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=qKpQFDjOj8s"
-  ],
-  "start": null,
-  "end": null
- },
- {
   "date": "2018-11-08",
   "title": "2018 11 08 Milano - Cryptocoinference - Giacomo Zucco",
   "event": "Cryptocoinference Milano 2018",
@@ -2289,19 +2153,6 @@
   "language": "it",
   "links": [
    "https://www.youtube.com/watch?v=QoPxf90Em6g"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2018-11-06",
-  "title": "Giacomo Zucco Crypto Insider Interview with Vlad Costea (Complete and Uncut)",
-  "event": "Crypto Insider",
-  "format": "interview",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=b64uQ-GwyWo"
   ],
   "start": null,
   "end": null
@@ -2333,59 +2184,6 @@
   "end": null
  },
  {
-  "date": "2018-10-28",
-  "title": "Giacomo Zucco on Bitcoin Maximalism (Crypto Insider Interview with Vlad Costea)",
-  "event": "Crypto Insider",
-  "format": "interview",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=eq05Eju3RGs"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2018-10-24",
-  "title": "Giacomo Zucco Rates the Top 20 Cryptocurrencies from CoinMarketCap for Crypto Insider",
-  "event": "Crypto Insider",
-  "format": "interview",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=phdGawbNrrU"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2018-10-19",
-  "title": "The B Foundation and Nouriel Roubini's Testimony to Congress with Giacomo Zucco",
-  "event": "The Peter McCormack Show",
-  "format": "podcast",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=ZPKvjIvfyHw",
-   "https://podcasts.apple.com/us/podcast/the-b-foundation-and-nouriel-roubinis-testimony/id1317356120"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2018-10-17",
-  "title": "Giacomo Zucco: Risks & Plan of The B. Foundation - Bitcoin",
-  "event": "Juan Galt",
-  "format": "interview",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=detXl9NA7eE"
-  ],
-  "start": null,
-  "end": null
- },
- {
   "date": "2018-10-06",
   "title": "Slévárna: TRADE-OFFS IN THE HISTORY OF MONEY, FROM SHELLS TO BITCOIN - Giacomo Zucco",
   "event": "HCPP18 - Hackers Congress Paralelni Polis 'New Order', Praga (ottobre 2018)",
@@ -2400,7 +2198,7 @@
  },
  {
   "date": "2018-09-23",
-  "title": "The Baltic Honeybadger 2018 Bitcoin conference in Riga, day 2",
+  "title": "Maximalism dissected, Baltic Honeybadger 2018",
   "event": "Baltic Honeybadger 2018, Riga (22-23 Sep 2018) - day 2 (full livestream)",
   "format": "talk",
   "media": "video",
@@ -2439,44 +2237,35 @@
  },
  {
   "date": "2018-08-17",
-  "title": "Giacomo Zucco: Bitcoin, banks, monopoly & tokens (II)",
+  "title": "Giacomo Zucco: Bitcoin, banks, monopoly & tokens (two parts)",
   "event": "Crypto Voices",
   "format": "podcast",
   "media": "audio",
   "language": "en",
-  "links": [
-   "https://podcasters.spotify.com/pod/show/porkopolis/episodes/Giacomo-Zucco-Bitcoin--banks--monopoly--tokens-II-e1t6j0s",
-   "https://podcasts.apple.com/us/podcast/giacomo-zucco-bitcoin-banks-monopoly-tokens-ii/id1193136560"
-  ],
   "start": null,
-  "end": null
- },
- {
-  "date": "2018-08-10",
-  "title": "Giacomo Zucco: Bitcoin, banks, monopoly & tokens (I)",
-  "event": "Crypto Voices",
-  "format": "podcast",
-  "media": "audio",
-  "language": "en",
-  "links": [
-   "https://podcasters.spotify.com/pod/show/porkopolis/episodes/Giacomo-Zucco-Bitcoin--banks--monopoly--tokens-I-e1t6j2o",
-   "https://podcasts.apple.com/us/podcast/giacomo-zucco-bitcoin-banks-monopoly-tokens-i/id1193136560"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2018-08-09",
-  "title": "FORTY8 x BLOX LIVE AUG9 2018 Giacomo Zucco",
-  "event": "FORTY8 x BLOX live",
-  "format": "livestream",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=E2hOXH5BRus"
-  ],
-  "start": null,
-  "end": null
+  "end": null,
+  "parts": [
+   {
+    "title": "Part I",
+    "date": "2018-08-10",
+    "links": [
+     "https://podcasters.spotify.com/pod/show/porkopolis/episodes/Giacomo-Zucco-Bitcoin--banks--monopoly--tokens-I-e1t6j2o",
+     "https://podcasts.apple.com/us/podcast/giacomo-zucco-bitcoin-banks-monopoly-tokens-i/id1193136560"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "Part II",
+    "date": "2018-08-17",
+    "links": [
+     "https://podcasters.spotify.com/pod/show/porkopolis/episodes/Giacomo-Zucco-Bitcoin--banks--monopoly--tokens-II-e1t6j0s",
+     "https://podcasts.apple.com/us/podcast/giacomo-zucco-bitcoin-banks-monopoly-tokens-ii/id1193136560"
+    ],
+    "start": null,
+    "end": null
+   }
+  ]
  },
  {
   "date": "2018-06-08",
@@ -2492,19 +2281,6 @@
   "end": null
  },
  {
-  "date": "2018-05-18",
-  "title": "This week in Bitcoin- 5-18-2018- Simon Dixon and Giacomo Zucco! Strong hand!",
-  "event": "BitcoinMeister - This week in Bitcoin",
-  "format": "podcast",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=FE1qI-5un5Q"
-  ],
-  "start": null,
-  "end": null
- },
- {
   "date": "2018-05-10",
   "title": "Noded 0.14.0 with Giacomo Zucco",
   "event": "Noded Bitcoin Podcast",
@@ -2514,45 +2290,6 @@
   "links": [
    "https://soundcloud.com/noded-bitcoin-podcast/noded-0140-with-giacomo-zucco",
    "https://podcasts.apple.com/us/podcast/noded-0-14-0-with-giacomo-zucco/id1308074867"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2018-03-31",
-  "title": "Extraordinary SCM Event - BlockchainLab, Italy - Giacomo Zucco",
-  "event": "The Bithope Foundation - SCM Event",
-  "format": "talk",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=Z5Z0_cH9gP0"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2018-03-06",
-  "title": "Giacomo Zucco — La metafora di internet per i bitcoin — Lodi Liberale del 06 03 2018",
-  "event": "Lodi Liberale, 6 marzo 2018 (spezzone)",
-  "format": "talk",
-  "media": "video",
-  "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=OeYphurruOI"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2018-03-06",
-  "title": "Giacomo Zucco — Le 5 domande fondamentali sui bitcoin — Lodi Liberale del 06 03 2018",
-  "event": "Lodi Liberale, 6 marzo 2018 (spezzone)",
-  "format": "talk",
-  "media": "video",
-  "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=XXsJ08jlRs0"
   ],
   "start": null,
   "end": null
@@ -2578,62 +2315,67 @@
   "media": "video",
   "language": "it",
   "links": [
-   "https://www.youtube.com/watch?v=SrkAgnEcSWY"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2018-02-10",
-  "title": "Forlì 10/02/2018 Bitcoin #2 Giacomo Zucco - Bitcoin e Blockchain",
-  "event": "Bitcoin Romagna, Forli' 10/02/2018",
-  "format": "talk",
-  "media": "video",
-  "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=18_s7b67Ahk"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2018-01-05",
-  "title": "This week in Bitcoin- 1-5-2018- Return of the BTC! Ripple, Giacomo Zucco, Michael Krieger, K. Bosak",
-  "event": "BitcoinMeister - This week in Bitcoin",
-  "format": "podcast",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=RflUeQIc-JI"
+   "https://www.youtube.com/watch?v=ElQyZ3v70YM"
   ],
   "start": null,
   "end": null
  },
  {
   "date": "2017-12-28",
-  "title": "Chi è Giacomo Zucco? - Alberto De Luigi intervista Giacomo Zucco (part 1/5)",
+  "title": "Alberto De Luigi intervista Giacomo Zucco (5 parts)",
   "event": "Alberto De Luigi",
   "format": "interview",
   "media": "video",
   "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=AxlRsQBGWhM"
-  ],
   "start": null,
-  "end": null
- },
- {
-  "date": "2017-11-07",
-  "title": "Bitcoin Day Milano - Giacomo Zucco",
-  "event": "Bitcoin Day Milano 2017",
-  "format": "talk",
-  "media": "video",
-  "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=Rbp0ZHAKcho"
-  ],
-  "start": null,
-  "end": null
+  "end": null,
+  "parts": [
+   {
+    "title": "1/5: Chi è Giacomo Zucco?",
+    "date": null,
+    "links": [
+     "https://www.youtube.com/watch?v=AxlRsQBGWhM"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "2/5: Bitcoin funziona o è in fase \"demo\"?",
+    "date": null,
+    "links": [
+     "https://www.youtube.com/watch?v=TlbQxn3UIqQ"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "3/5: Qual è la giusta dimensione dei blocchi?",
+    "date": null,
+    "links": [
+     "https://www.youtube.com/watch?v=egnvpIGmiNs"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "4/5: Come difendersi da un fork sgradito?",
+    "date": null,
+    "links": [
+     "https://www.youtube.com/watch?v=qern83omfpk"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "5/5: Perché dire no a SegWit2x e sì a UASF (BIP148)?",
+    "date": null,
+    "links": [
+     "https://www.youtube.com/watch?v=SQ5QD8itpmg"
+    ],
+    "start": null,
+    "end": null
+   }
+  ]
  },
  {
   "date": "2017-10",
@@ -2688,30 +2430,88 @@
   "end": null
  },
  {
-  "date": "2017-04-11",
-  "title": "BITCOIN DAY 11 Aprile 2017 - Milano - Giacomo Zucco",
-  "event": "Bitcoin Day Milano, 11 aprile 2017",
-  "format": "talk",
-  "media": "video",
-  "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=mPKq33qiJsk"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2017-02-10",
-  "title": "Inside Blockchain: Giacomo Zucco",
+  "date": "2018-12",
+  "title": "Interlogica videos (series)",
   "event": "Interlogica",
   "format": "interview",
   "media": "video",
   "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=Yc25FlqEg6Y"
-  ],
   "start": null,
-  "end": null
+  "end": null,
+  "parts": [
+   {
+    "title": "Inside Blockchain",
+    "date": "2017-02-10",
+    "links": [
+     "https://www.youtube.com/watch?v=Yc25FlqEg6Y"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "Video pillole, ep. 1",
+    "date": "2018",
+    "links": [
+     "https://www.youtube.com/watch?v=-iCvKpkN9Ls"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "Video pillole, ep. 2",
+    "date": "2018",
+    "links": [
+     "https://www.youtube.com/watch?v=v0RsfesakiI"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "Video pillole, ep. 3",
+    "date": "2018",
+    "links": [
+     "https://www.youtube.com/watch?v=9PZJwyjAAEs"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "Video pillole, ep. 4",
+    "date": "2018",
+    "links": [
+     "https://www.youtube.com/watch?v=7Bex5WL0iYo"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "Video pillole, ep. 5",
+    "date": "2018",
+    "links": [
+     "https://www.youtube.com/watch?v=MNPJ3pcTkb4"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "Video pillole, ep. 5b",
+    "date": "2018",
+    "links": [
+     "https://www.youtube.com/watch?v=llJ_CbrDumg"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "5 luoghi comuni su Bitcoin",
+    "date": "2018-12",
+    "links": [
+     "https://www.youtube.com/watch?v=a-2cz-yzQns"
+    ],
+    "start": null,
+    "end": null
+   }
+  ]
  },
  {
   "date": "2017-01-26",
@@ -2722,19 +2522,6 @@
   "language": "en",
   "links": [
    "https://www.youtube.com/watch?v=kCRFtq8LzUs"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2016-06-30",
-  "title": "Blockchain Conference Kyiv 003 2016 - Giacomo Zucco",
-  "event": "Blockchain Conference Kyiv 2016",
-  "format": "talk",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=d1WsGF2s6Ro"
   ],
   "start": null,
   "end": null
@@ -2779,30 +2566,34 @@
   "end": null
  },
  {
-  "date": "2015-07-15",
-  "title": "BIP001: Giacomo Zucco , Blockchainlab",
-  "event": "Distributed Lab BIP001 (Kyiv)",
-  "format": "talk",
-  "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=cT8kza0yXWA"
-  ],
-  "start": null,
-  "end": null
- },
- {
   "date": "2013-12-03",
-  "title": "Riflessioni su Bitcoin 1/2",
+  "title": "Riflessioni su Bitcoin (two parts)",
   "event": "Intervistelibertarie",
   "format": "interview",
   "media": "video",
   "language": "it",
-  "links": [
-   "https://www.youtube.com/watch?v=IbhX_48cwfY"
-  ],
   "start": null,
-  "end": null
+  "end": null,
+  "parts": [
+   {
+    "title": "1/2",
+    "date": "2013-12-03",
+    "links": [
+     "https://www.youtube.com/watch?v=IbhX_48cwfY"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "2/2",
+    "date": "2013-12-03",
+    "links": [
+     "https://www.youtube.com/watch?v=DcWdhbOjMYo"
+    ],
+    "start": null,
+    "end": null
+   }
+  ]
  },
  {
   "date": "2013-03-05",
@@ -2810,22 +2601,9 @@
   "event": "Leader, Rai 3 (spezzone)",
   "format": "debate",
   "media": "video",
-  "language": "en",
-  "links": [
-   "https://www.youtube.com/watch?v=15A6PlBN0IA"
-  ],
-  "start": null,
-  "end": null
- },
- {
-  "date": "2012-04-30",
-  "title": "Le Ragioni del Nord - Giacomo Zucco",
-  "event": "Verso Nord",
-  "format": "interview",
-  "media": "video",
   "language": "it",
   "links": [
-   "https://www.youtube.com/watch?v=kFy_mcR-M1U"
+   "https://www.youtube.com/watch?v=15A6PlBN0IA"
   ],
   "start": null,
   "end": null
@@ -3094,6 +2872,24 @@
     "end": null
    },
    {
+    "title": "#2: HTLC e routing di transazioni Lightning",
+    "date": "2022-10-04",
+    "links": [
+     "https://www.youtube.com/watch?v=Eiz3qbIk74w"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "#3: Transazioni Lightning, multipath payments",
+    "date": "2022-10-24",
+    "links": [
+     "https://www.youtube.com/watch?v=6zK51aWeBwU"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
     "title": "#4: Analisi di chiusure canali Lightning",
     "date": "2022-11-13",
     "links": [
@@ -3125,6 +2921,15 @@
     "date": "2023-02-14",
     "links": [
      "https://www.youtube.com/watch?v=x8eeLY-TEkU"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "#8: SegWit",
+    "date": "2023-03-25",
+    "links": [
+     "https://www.youtube.com/watch?v=KXbobXsxG7E"
     ],
     "start": null,
     "end": null
@@ -3617,5 +3422,374 @@
     "end": null
    }
   ]
+ },
+ {
+  "date": "2019-09-14",
+  "title": "Bitcoin Scaling Panel with Adam Back",
+  "event": "Baltic Honeybadger 2019, Riga (14-15 Sep 2019)",
+  "format": "panel",
+  "media": "video",
+  "language": "en",
+  "links": [
+   "https://www.youtube.com/watch?v=qlU_6USlQEU"
+  ],
+  "start": "00:15:31",
+  "end": "00:40:21"
+ },
+ {
+  "date": "2018-09-23",
+  "title": "Regulation panel (moderator), Baltic Honeybadger 2018",
+  "event": "Baltic Honeybadger 2018, Riga (22-23 Sep 2018) - day 2 (full livestream)",
+  "format": "panel",
+  "media": "video",
+  "language": "en",
+  "links": [
+   "https://www.youtube.com/watch?v=D2WXxgZ8h-0"
+  ],
+  "start": "04:18:12",
+  "end": "05:12:40"
+ },
+ {
+  "date": "2018-09-23",
+  "title": "Closing panel, Baltic Honeybadger 2018",
+  "event": "Baltic Honeybadger 2018, Riga (22-23 Sep 2018) - day 2 (full livestream)",
+  "format": "panel",
+  "media": "video",
+  "language": "en",
+  "links": [
+   "https://www.youtube.com/watch?v=D2WXxgZ8h-0"
+  ],
+  "start": "07:29:08",
+  "end": "08:27:23"
+ },
+ {
+  "date": "2025-05-29",
+  "title": "Trilemma Ep.3, with Sbam and Max Musumeci",
+  "event": "Trilemma, live from the Plan B Network Hub, Lugano",
+  "format": "podcast",
+  "media": "video",
+  "language": "it",
+  "links": [
+   "https://www.youtube.com/watch?v=Nky-tRcfrXA"
+  ],
+  "start": null,
+  "end": null
+ },
+ {
+  "date": "2025-02-12",
+  "title": "Bitcoin e la sovranità monetaria in Svizzera (debate with Giw Zanganeh)",
+  "event": "Lugano Plan B",
+  "format": "debate",
+  "media": "video",
+  "language": "it",
+  "links": [
+   "https://www.youtube.com/watch?v=uJ89miu-Klw"
+  ],
+  "start": null,
+  "end": null
+ },
+ {
+  "date": "2025-02-11",
+  "title": "Plan B Network Live: EP1 Maxi vs Maxi, with Massimo Musumeci and Sbam",
+  "event": "Plan B Network Live EP1 (Max Musumeci's channel)",
+  "format": "podcast",
+  "media": "video",
+  "language": "it",
+  "links": [
+   "https://www.youtube.com/watch?v=SnMis4ljTVM"
+  ],
+  "start": null,
+  "end": null
+ },
+ {
+  "date": "2025-01-13",
+  "title": "Monday Live: debate on the Swiss Bitcoin popular initiative",
+  "event": "Monday Live (Massimo Musumeci)",
+  "format": "debate",
+  "media": "video",
+  "language": "it",
+  "links": [
+   "https://www.youtube.com/watch?v=b0cvdlpp6aE"
+  ],
+  "start": null,
+  "end": null
+ },
+ {
+  "date": "2022-03-05",
+  "title": "Bitcoin: A Look into the Future, with Tone Vays",
+  "event": "Unconfiscatable 2022, Las Vegas (day 2 livestream)",
+  "format": "panel",
+  "media": "video",
+  "language": "en",
+  "links": [
+   "https://www.youtube.com/watch?v=Xe3cXSAa75U"
+  ],
+  "start": "06:56:43",
+  "end": null
+ },
+ {
+  "date": "2020-12-09",
+  "title": "Miners and Black Listing, with Jameson Lopp and Jimmy Song",
+  "event": "La Bit Conf 2020 (online)",
+  "format": "panel",
+  "media": "video",
+  "language": "en",
+  "links": [
+   "https://www.youtube.com/watch?v=CTofuUYm0xQ"
+  ],
+  "start": null,
+  "end": null
+ },
+ {
+  "date": "2020-07-09",
+  "title": "Hanging out with Max Hillebrand & Giacomo Zucco",
+  "event": "World Crypto Network (The Lightning Conference)",
+  "format": "interview",
+  "media": "video",
+  "language": "en",
+  "links": [
+   "https://www.youtube.com/watch?v=7nFLY6mYQHI"
+  ],
+  "start": null,
+  "end": null
+ },
+ {
+  "date": "2019-05",
+  "title": "Talk at the Bitcoin Embassy Switzerland, Uster",
+  "event": "Bitcoin Embassy Switzerland, Uster",
+  "format": "talk",
+  "media": "video",
+  "language": "en",
+  "links": [
+   "https://www.youtube.com/watch?v=NRH_HepKUZA"
+  ],
+  "start": null,
+  "end": null
+ },
+ {
+  "date": "2018-08-09",
+  "title": "Why Cypherpunks built Bitcoin, with Max Hillebrand (two parts)",
+  "event": "Read Rothbard, Use Bitcoin (World Crypto Network)",
+  "format": "podcast",
+  "media": "video",
+  "language": "en",
+  "start": null,
+  "end": null,
+  "parts": [
+   {
+    "title": "Part 1",
+    "date": "2018-08-09",
+    "links": [
+     "https://www.youtube.com/watch?v=-00tG3W1hXw"
+    ],
+    "start": null,
+    "end": null
+   },
+   {
+    "title": "Part 2",
+    "date": "2018-08-09",
+    "links": [
+     "https://www.youtube.com/watch?v=zxZFSuTFbAE"
+    ],
+    "start": null,
+    "end": null
+   }
+  ]
+ },
+ {
+  "date": "2017-11",
+  "title": "The Bitcoin protocol must be conservative (ForkLog interview)",
+  "event": "BlockchainUA 2017, Kyiv",
+  "format": "interview",
+  "media": "video",
+  "language": "en",
+  "links": [
+   "https://www.youtube.com/watch?v=P1BQ7VxUGTc"
+  ],
+  "start": null,
+  "end": null
+ },
+ {
+  "date": "2017-09",
+  "title": "How could an ICO be (almost) legit",
+  "event": "BIP001 \"Unlimited Edition\" (Distributed Lab)",
+  "format": "talk",
+  "media": "video",
+  "language": "en",
+  "links": [
+   "https://www.youtube.com/watch?v=pdgt8hq7hIg"
+  ],
+  "start": null,
+  "end": null
+ },
+ {
+  "date": "2017-09",
+  "title": "Enhancement of blockchain across the world (panel)",
+  "event": "BIP001 \"Unlimited Edition\" (Distributed Lab)",
+  "format": "panel",
+  "media": "video",
+  "language": "en",
+  "links": [
+   "https://www.youtube.com/watch?v=D4whTvZldsM",
+   "https://www.youtube.com/watch?v=1Kk4swbwcks"
+  ],
+  "start": null,
+  "end": null
+ },
+ {
+  "date": "2026-02-18",
+  "title": "L'AI disruption trade colpirà anche Bitcoin?",
+  "event": "Cripto, Il Sole 24 Ore (Vito Lops)",
+  "format": "podcast",
+  "media": "audio",
+  "language": "it",
+  "links": [
+   "https://podcast.ilsole24ore.com/serie/cripto-AEC88W9B/l-ai-disruption-trade-colpira-anche-bitcoin-AIXV6MTB"
+  ],
+  "start": null,
+  "end": null
+ },
+ {
+  "date": "2024-10-16",
+  "title": "Bitcoin è o no un bene rifugio?",
+  "event": "Cripto, Il Sole 24 Ore (Vito Lops)",
+  "format": "podcast",
+  "media": "audio",
+  "language": "it",
+  "links": [
+   "https://podcast.ilsole24ore.com/serie/cripto-AEC88W9B/bitcon-e-o-no-bene-rifugio-AG47P1Z"
+  ],
+  "start": null,
+  "end": null
+ },
+ {
+  "date": "2024-01-24",
+  "title": "BlackRock \"mangerà\" Bitcoin?",
+  "event": "Cripto, Il Sole 24 Ore (Vito Lops)",
+  "format": "podcast",
+  "media": "audio",
+  "language": "it",
+  "links": [
+   "https://podcast.ilsole24ore.com/serie/cripto-AEC88W9B/blackrock-mangera-bitcoin-AF95LZRC"
+  ],
+  "start": null,
+  "end": null
+ },
+ {
+  "date": "2021-03-12",
+  "title": "NFT, data center e backup, rimborso Windows, social audio",
+  "event": "2024, Radio24 (Enrico Pagliarini)",
+  "format": "interview",
+  "media": "audio",
+  "language": "it",
+  "links": [
+   "https://www.radio24.ilsole24ore.com/programmi/2024/puntata/nft-data-center-e-backup-rimborso-windows-social-audio-130521-ADACIqPB"
+  ],
+  "start": null,
+  "end": null
+ },
+ {
+  "date": "2016-08",
+  "title": "Bitcoin e processo telematico",
+  "event": "2024, Radio24 (Enrico Pagliarini)",
+  "format": "interview",
+  "media": "audio",
+  "language": "it",
+  "links": [
+   "https://www.radio24.ilsole24ore.com/programma/2024/trasmissione-agosto-2016-144301-gSLASS6bzB"
+  ],
+  "start": null,
+  "end": null
+ },
+ {
+  "date": "2019-06-21",
+  "title": "Libra - Deep fake - Open Innovation Summit 2019",
+  "event": "2024, Radio24 (Enrico Pagliarini)",
+  "format": "interview",
+  "media": "audio",
+  "language": "it",
+  "links": [
+   "https://www.radio24.ilsole24ore.com/programmi/2024/puntata/libra--deep-fake--open-innovation-summit-2019-170523-2419246672303101"
+  ],
+  "start": null,
+  "end": null
+ },
+ {
+  "date": "2018-01-12",
+  "title": "CES 2018 e tecnologia Blockchain",
+  "event": "2024, Radio24 (Enrico Pagliarini)",
+  "format": "interview",
+  "media": "audio",
+  "language": "it",
+  "links": [
+   "https://www.radio24.ilsole24ore.com/programmi/2024/puntata/ces-2018-e-tecnologia-blockchain-172742-2419246680505823"
+  ],
+  "start": null,
+  "end": null
+ },
+ {
+  "date": "2023-02-09",
+  "title": "Tutto quello che vi hanno detto sul Denaro (e Bitcoin) è falso",
+  "event": "CasaSanremoInvest, Sanremo (Moneyviz)",
+  "format": "talk",
+  "media": "video",
+  "language": "it",
+  "links": [
+   "https://www.youtube.com/watch?v=e7HHP8J7OrQ"
+  ],
+  "start": null,
+  "end": null
+ },
+ {
+  "date": "2020-06",
+  "title": "Il Bitcoin spiegato a tua nonna",
+  "event": "Byoblu24 (re-upload; original channel removed)",
+  "format": "interview",
+  "media": "video",
+  "language": "it",
+  "links": [
+   "https://www.youtube.com/watch?v=iww3arc89BA"
+  ],
+  "start": null,
+  "end": null
+ },
+ {
+  "date": "2018-10-25",
+  "title": "Talk at Villa Cattaneo, Pordenone",
+  "event": "Bitshop event, Pordenone",
+  "format": "talk",
+  "media": "video",
+  "language": "it",
+  "links": [
+   "https://www.youtube.com/watch?v=kBUa3588mNg"
+  ],
+  "start": null,
+  "end": null
+ },
+ {
+  "date": "2018-06-15",
+  "title": "In diretta da ITForum",
+  "event": "Due di denari, Radio24 (live from ITForum Rimini)",
+  "format": "interview",
+  "media": "audio",
+  "language": "it",
+  "links": [
+   "https://www.radio24.ilsole24ore.com/programmi/due-denari/puntata/in-diretta-da-itforum-100016-2419246669716562"
+  ],
+  "start": null,
+  "end": null
+ },
+ {
+  "date": "2023-03-22",
+  "title": "Come evadere il fisco con Bitcoin",
+  "event": "Investitori Folli (TikTok)",
+  "format": "interview",
+  "media": "video",
+  "language": "it",
+  "links": [
+   "https://www.tiktok.com/@investorifolli/video/7213425703834963206"
+  ],
+  "start": null,
+  "end": null
  }
 ]
